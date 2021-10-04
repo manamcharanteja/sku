@@ -1,0 +1,3691 @@
+
+/*top banner*/
+.banner {
+    background:/*linear-gradient(rgba(24, 23, 23, 0) ,rgba(8, 8, 8, 0.55)),*/ url(../images/about-header1.jpg) top center;
+    /*background-attachment: fixed;*/
+    background-position: top left;
+    background-repeat: no-repeat;
+    height: 600px;
+  	background-size:cover;
+    position: relative;
+}
+
+
+.banner_society {
+    background:/*linear-gradient(rgba(24, 23, 23, 0) ,rgba(8, 8, 8, 0.55)),*/ url(../images/banners/about-society.jpg) top center;
+   /* background-attachment: fixed;*/
+     background-size:cover;
+}
+
+.hyderabad {
+    background:/*linear-gradient(rgba(24, 23, 23, 0) ,rgba(8, 8, 8, 0.55)),*/ url(../images/banners/hyderabad-campus.jpg) top center;
+    /*background-attachment: fixed;*/
+    background-size:cover;
+}
+.bengaluru {
+    background:/*linear-gradient(rgba(24, 23, 23, 0) ,rgba(8, 8, 8, 0.55)),*/ url(../images/banners/blr-admissions.jpg) top center;
+    /*background-attachment: fixed;*/
+    background-size:cover;
+}
+.research {
+    background:/*linear-gradient(rgba(24, 23, 23, 0) ,rgba(8, 8, 8, 0.55)),*/ url(../images/banners/research_banner.jpg) top center;
+    /*background-attachment: fixed;*/
+    background-size:cover;
+}
+.banner_about {
+    background:/*linear-gradient(rgba(24, 23, 23, 0) ,rgba(8, 8, 8, 0.55)),*/ url(../images/banners/about-banner.jpg) top center;
+    /*background-attachment: fixed;*/
+    background-size:cover;
+}
+
+.banner_academic {
+    background:/*linear-gradient(rgba(24, 23, 23, 0) ,rgba(8, 8, 8, 0.55)),*/ url(../images/banners/programs.jpg) top center;
+    /*background-attachment: fixed;*/
+    background-size:cover;
+}
+.banner_placement {
+    background:/*linear-gradient(rgba(24, 23, 23, 0) ,rgba(8, 8, 8, 0.55)),*/ url(../images/banners/placement.jpg) top center;
+    /*background-attachment: fixed;*/
+    background-size:cover;
+}
+
+.banner_fee {
+    background:/*linear-gradient(rgba(24, 23, 23, 0) ,rgba(8, 8, 8, 0.55)),*/ url(../images/banners/academics-slider.jpg) top center;
+   /* background-attachment: fixed;*/
+    background-size:cover;
+}
+
+.banner_programs {
+    background:/*linear-gradient(rgba(24, 23, 23, 0) ,rgba(8, 8, 8, 0.55)),*/ url(../images/banners/fee.jpg) top center;
+    /*background-attachment: fixed;*/
+     background-size:cover;
+}
+
+
+.banner_student {
+    background:/*linear-gradient(rgba(24, 23, 23, 0) ,rgba(8, 8, 8, 0.55)),*/ url(../images/banners/student.jpg) top center;
+   /* background-attachment: fixed;*/
+     background-size:cover;
+}
+.banner_reserach {
+    background:/*linear-gradient(rgba(24, 23, 23, 0) ,rgba(8, 8, 8, 0.55)),*/ url(../images/banners/research.jpg) top center;
+   /* background-attachment: fixed;*/
+     background-size:cover;
+}
+
+.banner_admissions {
+    background:/*linear-gradient(rgba(24, 23, 23, 0) ,rgba(8, 8, 8, 0.55)),*/ url(../images/banners/admissions.jpg) top center;
+    /*background-attachment: fixed;*/
+     background-size:cover;
+}
+
+.banner_helpdesk {
+    background:/*linear-gradient(rgba(24, 23, 23, 0) ,rgba(8, 8, 8, 0.55)),*/ url(../images/banners/help-desk.jpg) top center;
+    /*background-attachment: fixed;*/
+     background-size:cover;
+}
+
+.banner_evaluation {
+    background:/*linear-gradient(rgba(24, 23, 23, 0) ,rgba(8, 8, 8, 0.55)),*/ url(../images/banners/evaluation.jpg) center center;
+   /* background-attachment: fixed;*/
+     background-size:cover;
+}
+.banner_apply-now {
+    background:/*linear-gradient(rgba(24, 23, 23, 0) ,rgba(8, 8, 8, 0.55)),*/ url(../images/banners/apply-now.jpg) top center;
+   /* background-attachment: fixed;*/
+     background-size:cover;
+}
+
+.banner_housing {
+    background:/*linear-gradient(rgba(24, 23, 23, 0) ,rgba(8, 8, 8, 0.55)),*/ url(../images/banners/housing.jpg) top center;
+    /*background-attachment: fixed;*/
+     background-size:cover;
+}
+
+.banner_housing-blr {
+    background:/*linear-gradient(rgba(24, 23, 23, 0) ,rgba(8, 8, 8, 0.55)),*/ url(../images/banners/housing-blr.jpg) top center;
+    /*background-attachment: fixed;*/
+     background-size:cover;
+}
+
+
+.banner_student-clubs {
+    background:/*linear-gradient(rgba(24, 23, 23, 0) ,rgba(8, 8, 8, 0.55)),*/ url(../images/banners/student-clubs.jpg) top center;
+    /*background-attachment: fixed;*/
+    background-size:cover;
+}
+.banner_student-clubs-blr {
+    background:/*linear-gradient(rgba(24, 23, 23, 0) ,rgba(8, 8, 8, 0.55)),*/ url(../images/banners/vitac.jpg) top center;
+    /*background-attachment: fixed;*/
+    background-size:cover;
+}
+
+.banner_student-chapters {
+    background:/*linear-gradient(rgba(24, 23, 23, 0) ,rgba(8, 8, 8, 0.55)),*/ url(../images/banners/student-chapters.jpg) top center;
+    /*background-attachment: fixed;*/
+     background-size:cover;
+}
+.banner_student-chapters-blr {
+    background:/*linear-gradient(rgba(24, 23, 23, 0) ,rgba(8, 8, 8, 0.55)),*/ url(../images/banners/iete.jpg) top center;
+    /*background-attachment: fixed;*/
+     background-size:cover;
+}
+.banner_student-events-blr {
+    background:/*linear-gradient(rgba(24, 23, 23, 0) ,rgba(8, 8, 8, 0.55)),*/ url(../images/banners/evnts-banner.jpg) top center;
+    /*background-attachment: fixed;*/
+    background-size:cover;
+}
+.bus{
+    background:/*linear-gradient(rgba(24, 23, 23, 0) ,rgba(8, 8, 8, 0.55)),*/ url(../images/banners/bus-service.jpg) top center;
+    /*background-attachment: fixed;*/
+     background-size:cover;
+}
+.bus-blr{
+    background:/*linear-gradient(rgba(24, 23, 23, 0) ,rgba(8, 8, 8, 0.55)),*/ url(../images/banners/bus-service-blr.jpg) top center;
+    /*background-attachment: fixed;*/
+     background-size:cover;
+}
+.banner_student-caste {
+    background:/*linear-gradient(rgba(24, 23, 23, 0) ,rgba(8, 8, 8, 0.55)),*/ url(../images/banners/caste-descrimination.jpg) top center;
+    /*background-attachment: fixed;*/
+    background-size:cover;
+}
+
+.banner_media {
+    background:/*linear-gradient(rgba(24, 23, 23, 0) ,rgba(8, 8, 8, 0.55)),*/ url(../images/banners/media.jpg) top center;
+    /*background-attachment: fixed;*/
+    background-size:cover;
+}
+
+.banner_phdresults {
+    background:/*linear-gradient(rgba(24, 23, 23, 0) ,rgba(8, 8, 8, 0.55)),*/ url(../images/banners/PHD_admissions_gitam.jpg) top center;
+    /*background-attachment: fixed;*/
+    background-size:cover;
+}
+.banner_career {
+    background:/*linear-gradient(rgba(24, 23, 23, 0) ,rgba(8, 8, 8, 0.55)),*/ url(../images/banners/career.jpg) top center;
+   /* background-attachment: fixed;*/
+    background-size:cover;
+}
+
+.banner_contact {
+    background:/*linear-gradient(rgba(24, 23, 23, 0) ,rgba(8, 8, 8, 0.55)),*/ url(../images/banners/contact.jpg) top center;
+    /*background-attachment: fixed;*/
+    background-size:cover;
+}
+
+.banner_auditoriums {
+    background:/*linear-gradient(rgba(24, 23, 23, 0) ,rgba(8, 8, 8, 0.55)),*/ url(../images/banners/auditoriums.jpg) top center;
+    /*background-attachment: fixed;*/
+    background-size:cover;
+}
+.banner_incampus {
+    background:/*linear-gradient(rgba(24, 23, 23, 0) ,rgba(8, 8, 8, 0.55)),*/ url(../images/banners/incampus.jpg) top center;
+    /*background-attachment: fixed;*/
+    background-size:cover;
+}
+.news_banner {
+    background:/*linear-gradient(rgba(24, 23, 23, 0) ,rgba(8, 8, 8, 0.55)),*/ url(../images/banners/news_banner.jpg) top center;
+    /*background-attachment: fixed;*/
+    background-size:cover;
+}
+.privacy_banner {
+    background:/*linear-gradient(rgba(24, 23, 23, 0) ,rgba(8, 8, 8, 0.55)),*/ url(../images/banners/privacy_banner.jpg) top center;
+    /*background-attachment: fixed;*/
+    background-size:cover;
+}
+.banner .courtesy {  position:absolute; right:20px; bottom:10px; padding:5px; background-color:rgba(000,000,000,0.5); color:#fff; font-size:17px }
+
+.accredaton {
+    background:/*linear-gradient(rgba(24, 23, 23, 0) ,rgba(8, 8, 8, 0.55)),*/ url(../images/banners/accredatonnew.jpg) top center;
+    /*background-attachment: fixed;*/
+    background-size:contain;
+}
+.course {
+    background:/*linear-gradient(rgba(24, 23, 23, 0) ,rgba(8, 8, 8, 0.55)),*/ url(../images/banners/course.jpg) top center;
+    /*background-attachment: fixed;*/
+    background-size:cover;
+}
+
+
+.pull-left {
+
+    float: left !important;
+
+}
+.fa {
+    width: 1.28571429em;
+    display: inline-block;
+    text-align: center;
+}
+
+.section_tabs .nav{
+
+    flex-wrap: nowrap !important;
+}
+.btn-danger.focus, .btn-danger:focus ,  .btn-danger {
+
+    box-shadow: none;
+    border-radius: 0;
+
+}
+br.br-space{
+   display: block; /* makes it have a width */
+            content: ""; /* clears default height */
+            margin-top: 10px;
+}
+
+.card-body {
+
+    padding-bottom: 30px;
+
+}
+.banner h1 {
+	text-align: left;
+    color: #fff;
+    font-size: 45px;
+    background: #b1040e;
+    color: white;
+    display: inline-block;
+    letter-spacing: 0;
+    margin: 0;
+    padding: .625rem 1.25rem .625rem 0;
+    z-index: 1;
+    text-transform: uppercase;
+    font-weight: 800;
+    line-height: 1.6;
+    bottom: 0px;
+    position: absolute;
+    }
+.banner h1::before {
+    background: #b1040e;
+    content: '';
+    display: block;
+    height: 100%;
+    width: 1920px;
+    position: absolute;
+    top: 0;
+    right: 0;
+    z-index: -1;
+}
+.banner h2 {
+	text-align: left;
+    color: #fff;
+    font-size: 45px;
+    background: #b1040e;
+    color: white;
+    display: inline-block;
+    letter-spacing: 0;
+    margin: 0;
+    padding: .625rem 1.25rem .625rem 0;
+    z-index: 1;
+    text-transform: uppercase;
+    font-weight: 800;
+    line-height: 1.6;
+    bottom: 0px;
+    position: absolute;
+    }
+.banner h2::before {
+    background: #b1040e;
+    content: '';
+    display: block;
+    height: 100%;
+    width: 1920px;
+    position: absolute;
+    top: 0;
+    right: 0;
+    z-index: -1;
+}
+/*End top banner*/
+
+/*Breadcrumb*/
+.pagenation_inner{
+    background:#f5f5f5;
+    padding: 12px 0px 1px 0px;
+}
+.pagenation_inner .breadcrumb {
+    background-color: transparent;
+    padding: 0px;
+}
+.pagenation_inner .breadcrumb a {
+color: #000;
+font-size: 16px;
+}
+.pagenation_inner .breadcrumb li  {
+color: #B1040E !important;
+font-size: 16px;
+margin-top: 2px;
+
+}
+.pagenation_inner li.active a {
+color: #B1040E !important;
+font-size: 16px;
+margin-top: 2px;
+
+}
+.anchor{
+  display: block;
+  height: 85px; /*same height as header*/
+  margin-top: -85px; /*same height as header*/
+  visibility: hidden;
+}
+/*End Breadcrumb*/
+
+
+.section-links {
+
+    list-style: none;
+    margin-bottom: 0;
+    padding: 0;
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+.section-links li::before {
+   content: "\25A0 \0020";
+display: inline;
+padding-left: 16px;
+color: #f58220;
+top: -4px;
+position: relative;
+padding-right: 11px;
+font-size: 16px;
+}
+/*.section-links li::after {
+    content: '\00a0|' !important;
+    display: inline;
+    padding-left: 15px;
+    color: #f58220;
+}*/
+
+.section-links li:nth-last-child(1):after{
+    content: '';
+    display: none;
+    padding-left: 15px;
+    color: #f58220;
+   }
+
+.section-links > li {
+    /*display: inline-block;*/
+    margin: calc((1.5em - 3px) / 3) 1.5rem 0 0;
+}
+.section-links  li a{
+color: #b1040e;
+font-size: 19px;
+font-weight: 600;
+}
+.hyderabad_campus{
+	padding: 60px 0px;
+}
+.hyderabad_campus h2 {
+
+   text-align: center;
+    font-size: 42px;
+    font-weight: 800;
+    margin-bottom: 30px;
+    /*padding-top: 40px;*/
+
+}
+.hyd_academic h2{
+text-align: center;
+}
+.hyderabad_campus p{
+	font-size: 20px;
+	line-height: 2;
+	text-align: justify !important;
+}
+/*p{
+	text-align: justify !important;
+}*/
+.hyd_academic{
+	background: #f5f5f5;
+}
+.bgcolor-section{
+	background: #f5f5f5;
+}
+/*.hyd_admission img{
+width: 65px;
+
+margin: auto;
+
+display: inherit !important;
+}
+.hyd_admission h4{
+	text-align: left !important;
+*/
+/*Page bottom style*/
+.gandhi{
+    background:url(../images/about/about-gandhi.jpg);
+
+    background-repeat: no-repeat;
+    height: 700px;
+
+    background-size: cover;
+    background-position: center;
+}
+.contact{
+    background:url(../images/contact.jpg);
+
+    background-repeat: no-repeat;
+    height: 700px;
+
+    background-size: cover;
+    background-position: center;
+}
+.footer_img .inner {
+float: left;
+
+width: 460px;
+background: #f5f5f599;
+padding: 20px;
+position: absolute;
+bottom: 20px;
+display: none !important;
+
+}
+.gandhi h2{
+    font-weight: 600;
+
+font-size: 35px;
+
+color: #b1040e;
+}
+.gandhi h4{
+    font-size: 19px;
+
+line-height: 1.7;
+
+font-weight: 600;
+}
+.gandhi p{
+    font-size: 18px;
+
+color: #000;
+}
+/*Page bottom style*/
+
+
+/*About inner pages*/
+
+.about_page{
+    padding: 70px 0px;
+}
+.about_page h2{
+    font-size: 35px;
+    font-weight: 600;
+    margin-bottom: 25px;
+
+}
+.about_page h4{
+    font-size: 21px;
+    line-height: 1.7;
+}
+.about_page a.more {
+
+    text-decoration: none;
+    color: #fff;
+    font-weight: 600;
+    font-size: 18px;
+    background: #b1040e;
+    padding: 15px;
+    display: inline-block;
+    margin-bottom: 30px;
+     /*margin-top: 20px;*/
+}
+.about_page a.more:hover {
+
+    text-decoration: none;
+    color: #fff;
+    font-weight: 600;
+    font-size: 18px;
+    background: #fa7503;
+    padding: 15px;
+}
+.about_page h2 a{
+    color: rgb(33, 37, 41);
+    text-decoration: none;
+}
+.about_page h4 a{
+color: rgb(33, 37, 41);
+text-decoration: none;
+}
+.about_page p{
+    text-align: justify;
+    font-size: 18px;
+    line-height: 1.8;
+
+}
+.gitam_society{
+    background: #f5f5f5;
+}
+.about_accreditation{
+    padding: 70px 0px;
+}
+.about_accreditation h2 a{
+    color: rgb(33, 37, 41);
+    text-decoration: none;
+}
+.about_accreditation h2{
+    font-size: 40px;
+
+font-weight: 600;
+
+margin-bottom: 40px;
+}
+.about_accreditation p{
+    text-align: center;
+    font-size: 18px;
+    line-height: 1.8;
+    margin-top: 20px;
+
+text-decoration: none;
+
+}
+
+.about_accreditation img{
+    display: block;
+    margin: auto;
+}
+.about_accreditation a{
+
+    text-decoration: none;
+}
+.leadership_about{
+    margin-top: 100px;
+}
+.leadership_about a.more {
+
+    text-decoration: none;
+
+color: #b1040e;
+
+font-weight: 600;
+
+font-size: 18px;
+
+background: transparent;
+
+border: 2px solid #f58220;
+
+padding: 19px;
+
+width: 300px;
+text-align: center;
+display: block;
+color: #002147 ;
+margin-bottom: 30px;
+}
+.leadership_about a.more:hover {
+text-decoration: none;
+color: #fff;
+font-weight: 600;
+font-size: 18px;
+background: #fa7503;
+padding: 19px;
+}
+.univeristy{
+    padding: 60px 0px;
+   /* background: #f5f5f5;*/
+    /*margin-bottom: 45px;*/
+
+}
+ .univeristy h2{
+   font-size: 43px;
+font-weight: 600;
+margin-bottom: 25px;
+}
+
+ .univeristy p{
+   font-size:17px;
+   text-align: justify;
+}
+
+.gitam_logos h2{
+    font-size: 40px;
+   /*color: #002147;*/
+
+font-weight: 600;
+    margin-bottom: 25px;
+}
+.gitam_logos img{
+    width: 290px;
+   /*margin-right: 190px;*/
+   margin-bottom: 20px;
+}
+.gitam_logos{
+/*border: 1px solid #eeeded;*/
+/*border-right: 3px solid #f58220;*/
+background: #fff;
+margin-bottom: 70px;
+/*padding: 40px;*/
+
+
+}
+.gitam_logos .small-logo img{
+    width: 105px;
+}
+.gitam_logos .main-logo img{
+    width: 360px;
+}
+.gitam_logos h5{
+font-size: 24px;
+
+font-weight: 600;
+
+margin-bottom: 12px;
+
+color: #c8102e;
+}
+.gitam_logos h6{
+font-size: 19px;
+
+font-weight: 500;
+line-height: 1.8;
+}
+.gitam_logos p{
+    text-align: justify;
+    font-size: 20px;
+    line-height: 2;
+}
+.glance_inner h3{
+font-size: 27px;
+
+font-weight: 600;
+
+color: #002147;
+
+margin-top: 20px;
+}
+.glance_inner p{
+    font-size: 19px;
+    margin-top: 15px;
+}
+.glance_inner a.more {
+
+    text-decoration: none;
+    color: #b1040e;
+    font-weight: 600;
+
+}
+.glance_inner .ranking{
+    margin-top: 50px;
+}
+.glance_inner .ranking img{
+    width: 300px;
+}
+.glance_inner .ranking p{
+  margin-top: 20px;
+}
+.glance_inner hr {
+    margin-top: 50px;
+}
+.hitech h2 {
+
+    font-size: 33px;
+    font-weight: 600;
+    margin-bottom: 25px;
+    text-align: center;
+    padding-top: 120px;
+}
+.hitech{
+    background: url("../images/gate.jpg");
+    background-size: cover;
+    height:800px;
+    margin-top:-50px;
+}
+.vision{
+    padding: 60px 0px;
+    background: #f5f5f5;
+}
+.vision img{
+    width: 80px;
+
+}
+.vision h2{
+    color: #b1040e;
+
+font-weight: 600;
+
+font-size: 32px;
+
+margin-top: 15px;
+
+
+}
+.vision h6{
+font-size: 20px;
+
+
+line-height: 1.7;
+}
+
+.Chancellor_img h5{
+
+margin-top: 10px;
+
+
+font-size: 35px;
+
+font-weight: 500;
+
+color: #b1040e;
+
+
+}
+.Chancellor_img h6{
+font-size: 20px;
+color: #000;
+/*margin-top: 8px;*/
+}
+.Chancellor p{
+line-height: 2;
+font-size: 17px;
+}
+
+.submenu_leadership{
+    background: #fff;
+}
+.about_inner .main_tab .submenu_leadership .nav-item {
+
+    border-bottom: 1px dashed #efefef;
+
+}
+.about_inner .main_tab .submenu_leadership .nav-link {
+
+    font-size: 17px;
+    color: #30393a;
+    margin-left: 15px;
+}
+#Chancellor p{
+text-align: justify;
+
+line-height: 2;
+}
+#GITAM_Society h2{
+    margin-bottom: 30px;
+}
+.founder h3{
+    font-size: 35px;
+    font-weight: 600;
+    color: #b1040e ;
+
+    /*font-family: 'Saira Extra Condensed', sans-serif !important;*/
+    margin-bottom: 0px;
+}
+.founder h4{
+font-size: 22px;
+line-height: 1.5;
+color: #272424;
+}
+.founder h5 {
+font-size: 18px;
+line-height: 1.5;
+color: #201d1d;
+}
+.founder h5 a{
+
+
+color: #201d1d;
+}
+.governing_body h2{
+  font-size: 45px;
+    font-weight: 700;
+
+    margin-bottom: 30px;
+
+
+}
+.governing_body {
+background: #f5f5f5;
+
+padding: 50px 0px;
+
+}
+.governing_body h4{
+font-size: 23px;
+line-height: 1.5;
+color: #b1040e;
+}
+.governing_body h5 {
+font-size: 18px;
+line-height: 1.5;
+color: #000;
+}
+/*.governing_body .inner:hover{
+background: #eae9e9;
+
+padding: 20px;
+}*/
+.governing_body .inner{
+border: 1px solid #e4e2e2;
+
+padding: 22px;
+
+height: 120px;
+
+margin-bottom: 30px;
+background:#fff;
+}
+.governing_body .panel-title > a:before {
+
+float: left !important;
+font-family: FontAwesome;
+content: "\f068";
+
+padding: 3px 14px 1px 15px;
+
+background: #b1040e;
+
+border-radius: 50%;
+
+color: #fff;
+
+font-size: 30px;
+
+margin-right: 18px;
+
+text-align: center;
+
+margin-top: 5px;
+}
+.governing_body .panel-title > a.collapsed:before {
+float: left !important;
+font-family: FontAwesome;
+content: "\f067";
+
+padding: 3px 14px 1px 15px;
+
+background: #b1040e;
+
+border-radius: 50%;
+
+color: #fff;
+
+font-size: 30px;
+
+margin-right: 18px;
+
+text-align: center;
+
+margin-top: 5px;
+}
+.governing_body .panel-body{margin-top: 30px;}
+.governing_body .panel-title > a:hover,
+.governing_body .panel-title > a:active,
+.governing_body .panel-title > a:focus {
+text-decoration:none;
+}
+.about_inner .main_tab .submenu_leadership .active {
+
+    background: #fff;
+    color: #000 !important;
+
+}
+.tab-content p{
+    text-align: justify;
+    line-height: 2;
+}
+.Board-of-Management h3{
+font-size: 27px;
+
+margin-top: 20px;
+}
+.society{
+    margin: 30px 0px;
+}
+.about_founder{
+padding:50px 0px;
+}
+.about_founder h2{
+    font-size: 46px;
+    font-weight: 700;
+
+}
+.about_founder h3{
+font-size: 27px;
+
+color: #b1040e;
+line-height: 1.7
+}
+.about_founder h5{
+    font-size: 20px;
+    line-height: 1.7
+}
+.about_founder h5 a{
+    color: #000;
+}
+.about_founder h5 a:hover{
+    color: #b1040e;
+}
+.about_founder .inner{
+    /*padding-top: 30px;*/
+}
+.about_Chancellor{
+
+}
+.about_Chancellor h2{
+    font-size: 37px;
+    font-weight: 600;
+
+}
+.about_Chancellor h3{
+font-size: 27px;
+
+
+line-height: 1.8;
+}
+
+.about_Chancellor{
+padding: 60px 0px;
+}
+.about_Chancellor .inner{
+    padding-top: 30px;
+}
+.about_Chancellor h3{
+font-size: 25px;
+
+margin-top: 10px;
+color: #b1040e;
+font-weight: 500;
+}
+.about_Chancellor h6{
+font-size: 19px;
+
+margin-top: 13px;
+}
+.about_Chancellor .fa::before {
+
+    color: #f58220;
+    padding-right: 10px;
+
+}
+.leadership_inner{
+    margin: 30px 0px;
+}
+.about_Chancellor h4{
+font-size: 22px;
+
+font-weight: 500;
+
+line-height: 1.3;
+}
+
+
+.tab1 .active {
+    position: relative;
+
+}
+.tab1 .active:after {
+    top: 100%;
+    left: 50%;
+    border: solid transparent;
+    content: " ";
+    height: 0;
+    width: 0;
+    position: absolute;
+    pointer-events: none;
+}
+
+.tab1 .active:after {
+
+    border-top-color: #b1040e;
+    border-width: 15px;
+    margin-left: -15px;
+}
+
+
+.tab2 .active {
+    position: relative;
+
+}
+.tab2 .active:after {
+    top: 99%;
+    left: 50%;
+    border: solid transparent;
+    content: " ";
+    height: 0;
+    width: 0;
+    position: absolute;
+    pointer-events: none;
+}
+
+.tab2 .active:after {
+
+    border-top-color: #fa7503;
+    border-width: 15px;
+    margin-left: -15px;
+}
+
+
+
+.tab3 .active {
+    position: relative;
+
+}
+.tab3 .active:after {
+    top: 100%;
+    left: 50%;
+    border: solid transparent;
+    content: " ";
+    height: 0;
+    width: 0;
+    position: absolute;
+    pointer-events: none;
+}
+
+.tab3 .active:after {
+
+/*    border-top-color: #ededed;*/
+        border-top-color: #b1040e;
+    border-width: 15px;
+    margin-left: -15px;
+}
+
+.academic-calendar .g-calendar{
+background: #f6f6f6;
+    padding: 16px;
+    border-left: 8px solid #b1040e;
+    margin-bottom: 19px;
+}
+
+.academic-calendar .g-calendar h6 {
+font-size:19px
+}
+
+.academic-calendar .g-calendar i:before {
+    color: #b1040e;
+    font-size: 23px;
+}
+.academic-calendar .student_page {
+padding-top:0;
+}
+
+
+.about_Chancellor .related_links h2 {
+
+    font-size: 27px;
+  /*  border-bottom: 1px dotted #e8e7e7 !important;*/
+    color: #002147;
+
+    margin-bottom: 12px;
+    background: whitesmoke;
+    padding: 5px 0px 8px 13px;
+
+}
+.about_Chancellor .related_links h4{
+    font-size: 18px;
+    margin-left: 20px;
+}
+.about_Chancellor .related_links h4 a{
+    color: #b1040e;
+
+line-height: 1.9;
+}
+
+.related_links h2 {
+
+    font-size: 27px;
+  /*  border-bottom: 1px dotted #e8e7e7 !important;*/
+    color: #002147;
+
+    margin-bottom: 12px;
+    background: whitesmoke;
+    padding: 6px 0px 2px 13px;
+
+}
+.related_links h4{
+    font-size: 18px;
+    margin-left: 20px;
+}
+ .related_links h4 a{
+    color: #b1040e;
+
+line-height: 1.9;
+}
+.administration{
+    padding: 70px 0px
+}
+
+.administration .inner {
+
+    border: 1px solid #eeebeb;
+    padding: 20px;
+     min-height: 140px;
+    /*height: 100%;*/
+
+   /* margin-bottom: 30px;*/
+    background: #fff;
+
+}
+.administration h4 {
+
+    font-size: 24px;
+    line-height: 1.5;
+    color: #b1040e;
+
+}
+.administration h5 {
+
+    font-size: 19px;
+    line-height: 1.5;
+    color: #000;
+
+}
+.administration h6 {
+
+    font-size: 18px;
+    line-height: 1.5;
+    color: #000;
+
+}
+.Directors{
+    background: #f5f5f5;
+}
+.administration h2{
+font-size: 45px;
+
+font-weight: 600;
+
+margin-bottom: 30px;
+}
+.administration h3{
+font-size: 26px;
+
+margin-bottom: 20px;
+
+font-weight: 500;
+}
+
+.other_links{
+    padding: 50px 0px;
+}
+.other_links .inner h3{
+    border:1px solid #e4e4e4;
+    padding: 30px;
+    font-size: 19px;
+    margin-top: 20px;
+    font-weight: 600;
+}
+
+.other_links .inner h3 a{
+    color: #000;
+    text-decoration: none;
+}
+.other_links h2{
+
+background:rgb(48, 57, 58) !important;
+    padding: 14px 20px;
+
+    color: #fff;
+    text-transform: uppercase;
+
+font-weight: 500;
+
+font-size: 22px;
+margin: 0px;
+
+}
+.other_links .inner h3:hover{
+    background: #f58220;
+    color: #fff;
+}
+
+.accreditation{
+    padding-top:70px;
+}
+.accreditation h6 {
+
+    font-size: 18px;
+    text-align: center;
+    line-height: 1.6;
+
+}
+.accreditation img{
+width: 200px;
+
+margin: auto;
+
+display: block;
+}
+
+.accreditation .melbourne img{ width:93px; }
+
+.accreditation .inner{
+    border-bottom: 1px solid #f3f3f3;
+
+padding-bottom: 17px;
+
+padding-top: 10px;
+}
+.accreditation .ce-title-line {
+
+    width: 15%;
+    height: 3px;
+    background-color: #f58220;
+    margin: auto;
+        margin-bottom: auto;
+    margin-bottom: auto;
+    margin-bottom: 60px;
+
+}
+.accreditation h2{
+/*text-align: center;*/
+font-size: 40px;
+font-weight: 600;
+margin-bottom: 40px;
+}
+.Partner_Universities{
+    padding-bottom: 40px;
+}
+
+/*End about section*/
+
+
+/*Contact*/
+.contact_page{
+    padding: 60px 0px;
+}
+.contact_page .nav-tabs .nav-link.active {
+    font-weight:bold;
+    background-color: transparent;
+    border-bottom:3px solid #b1040e;
+    border-right: none;
+    border-left: none;
+    border-top: none;
+    border-radius: 0px !important;
+    color: #002147;
+}
+.contact_page .form-group {
+
+    margin-bottom: 2rem;
+
+}
+.contact_page p{
+    text-align: left;
+}
+.contact_page .nav-tabs .nav-link:focus, .nav-tabs .nav-link:hover {
+
+  /* border-color: #fff #fff #f1ebeb;*/
+
+border-radius: 0px !important;
+
+}
+.contact_page .nav-tabs .contact {
+
+    font-size: 25px;
+    font-weight: 600;
+    color: #fa7503 !important;
+   /* border-right: 2px solid red;
+    border-radius: 0 !important;
+    height: 37px;*/
+    margin-right: 40px;
+    line-height: 2;
+    border-right: 1px solid #dee2e6;
+    border-radius: 0px !important;
+    padding-right: 20px;
+
+}
+.contact_page .nav-tabs a{
+font-size: 21px;
+color: #635f5f;
+padding: 20px
+
+}
+.contact_page #Visakhapatnam h5, .contact_page #Hyderabad h5, .contact_page #Bengaluru h5{
+font-size: 30px;
+margin-top: 0px;
+color: #b1040e;
+
+margin-bottom: 20px;
+}
+.contact_page #Visakhapatnam, .contact_page #Hyderabad, .contact_page #Bengaluru{
+    padding: 50px 0px;
+}
+.contact_page #Visakhapatnam h2, .contact_page #Hyderabad h2, .contact_page #Bengaluru h2{
+text-align: left;
+
+font-size: 35px;
+
+font-weight: 600;
+
+margin-bottom: 50px;
+}
+.contact_page #Visakhapatnam h3, .contact_page #Hyderabad h3, .contact_page #Bengaluru h3{
+font-size: 23px;
+
+font-weight: 600;
+
+margin-bottom: 20px;
+}
+.contact_page #Visakhapatnam h6, .contact_page #Hyderabad h6, .contact_page #Bengaluru h6{
+font-size: 18px;
+
+line-height: 1.8;
+}
+.contact_page i {
+
+    color: #fa7503;
+    font-size: 18px;
+    padding-right: 10px;
+
+}
+.contact_page h4{
+    font-weight: 600;
+
+font-size: 23px;
+
+/*margin-top: 22px;*/
+
+margin-bottom: 22px;
+}
+.contact_page .form-control {
+
+    background-color: #f5f5f5;
+    box-shadow: none;
+    color: #2e2c2c;
+    font-family: 'Rubik', sans-serif;
+    font-size: 18px !important;
+    line-height: 1.43;
+    min-height: 3.5em;
+    padding: 1.07em .5em;
+
+}
+.contact_page .contact_form{
+    margin-left: 20px;
+
+    /*padding-top:10px;*/
+}
+.contact_page .contact_form .add{
+   padding-bottom: 15px;
+}
+.contact_page .btn-danger, .contact_page .btn-danger:active{
+background-color: #b1040e !important;
+
+border-color: #b1040e !important;
+
+color: #fff !important;
+
+font-size: 17px;
+margin:0px;
+font-weight: 600;
+ padding: 1rem 2rem;
+}
+.contact_page .btn-danger:hover{
+background-color: #fa7503  !important;
+
+border-color: #fa7503  !important;
+}
+.contact_page .reach {
+    background:#f5f5f5;
+    padding: 30px;
+    margin-top: 30px;
+}
+.contact_page .reach h3{
+    margin-bottom:30px !important;
+    font-size: 30px !important;
+    color: #b1040e;
+
+}
+.contact_page .table thead th {
+
+    vertical-align: bottom;
+    border-bottom: 2px solid #dee2e6;
+    font-size: 22px;
+    /*color: #002147;*/
+
+}
+.contact_page .table td, .table th {
+
+    padding: 0.7em;
+    font-size: 19px;
+}
+.contact_page .reach h4{
+    margin-bottom:30px !important;
+    font-size: 25px !important;
+    color: #002147;
+    text-transform: uppercase;
+    margin-top: 20px;
+}
+/*End contact*/
+
+/*Academic*/
+
+/*.academic_page{
+    padding-top: 60px;
+}*/
+.Related{
+    padding: 0px;
+    margin: 0px;
+    line-height: 1;
+}
+.Related h3{
+    margin-bottom: 20px;
+}
+.Related a.more{
+    margin-bottom: 0px;
+}
+.academic_page .fa{
+    padding-right: 8px;
+    color: #f58220;
+}
+.academic_page h2{
+    /*color: #b1040e;*/
+    font-size: 42px;
+    font-weight: 800;
+    margin-bottom: 50px;
+    padding-top: 40px;
+}
+
+.academic_page h3 {
+
+    font-size: 30px;
+    font-weight: 600;
+
+}
+.academic_page h4 a{
+    text-decoration: none;
+}
+
+.academic_page h4{
+ font-size: 21px;
+
+color: #b1040e;
+
+font-weight: 600;
+
+margin-top: 20px;
+}
+.academic_page h4 a{
+
+text-decoration: none !important;
+color:rgb(33, 37, 41);
+
+}
+.academic_page  a{
+
+text-decoration: none !important;
+color:rgb(33, 37, 41);
+
+}
+.academic_page p{
+    text-align: justify;
+    line-height: 1.8;
+    font-size: 19px;
+}
+.academic_page a.more {
+
+    text-decoration: none;
+    color: #fff;
+    font-weight: 600;
+    font-size: 17px;
+    background: #b1040e;
+   /* border: 2px solid #f58220;*/
+    padding: 11px;
+
+}
+.academic_page a.more:hover {
+
+    text-decoration: none;
+    color: #fff;
+    font-weight: 600;
+    font-size: 17px;
+    background: #fa7503;
+  /*  border: 2px solid #f58220;*/
+    padding: 11px;
+
+}
+.academic_page .nav-tabs .nav-link.active {
+
+    font-weight: bold;
+    background-color: transparent;
+    border-top: 3px solid #dd0000;
+    border-right: none;
+    border-left: none;
+   /* border-top: none;*/
+    border-radius: 0px !important;
+    color: #002147;
+   /* background: #ededed;*/
+        background: #b1040e;
+    padding:15px
+
+}
+.academic_page .nav-tabs .nav-link{
+    padding: 15px;
+}
+.academic_page .nav-tabs a {
+
+    font-size: 22px;
+    color: #635f5f;
+
+}
+.academic_page .Institute{
+   margin-top: 30px;
+
+border-bottom: 1px solid #eceaea;
+
+
+}
+.academic_page  ul{
+    list-style: none;
+}
+.academic_page ul li {
+color: rgb(33, 37, 41);
+    font-size: 22px;
+    position: relative;
+
+}
+.academic_page ul li::before {
+
+    content: "\25A0 \0020";
+    color: #f58220;
+    position: absolute;
+    top: -3px;
+    left: -30px;
+    padding: 5px;
+    font-size: 16px;
+
+}
+.academic_page img{
+    width: 55px;
+}
+.academic_page .inner{
+/*border: 1px solid #ccc;*/
+
+padding: 20px;
+}
+.gandhi{
+    background:url(../images/about/about-gandhi.jpg);
+
+    background-repeat: no-repeat;
+    height: 700px;
+
+    background-size: cover;
+}
+.academics_section{
+    background:url(../images/academics/academic.jpg);
+
+    background-repeat: no-repeat;
+    height: 700px;
+
+    background-size: cover;
+}
+.reserch {
+     background:url(../images/research-footer.jpg);
+}
+.hyderabad_footer{
+	background:url(../images/hyderabad-footer.jpg) top;
+	 background-size: cover;
+}
+.course_section{
+    background:url(../images/academics/course.jpg);
+
+    background-repeat: no-repeat;
+    height: 700px;
+
+    background-size: cover;
+}
+.footer_img{
+    position: relative;
+}
+
+.footer_img img{
+	width:100%;
+}
+
+.footer_img .courtesy{
+   position: absolute;
+    right: 20px;
+    bottom: 10px;
+    padding: 5px;
+    background-color: rgba(000,000,000,0.5);
+    color: #fff;
+    font-size: 19px;
+
+}
+
+
+.incampus_sectio-footer{
+    background:url(../images/incampus/incampus-footer.jpg);
+
+    background-repeat: no-repeat;
+    height: 700px;
+
+    background-size: cover;
+}
+
+.evaluation_footer{
+    background:url(../images/evaluation/evaluation-footer.jpg);
+
+    background-repeat: no-repeat;
+    height: 700px;
+
+    background-size: cover;
+}
+
+.meida_footer{
+    background:url(../images/media.jpg);
+
+    background-repeat: no-repeat;
+    height: 700px;
+
+    background-size: cover;
+}
+.carer_footer{
+    background:url(../images/carrers.jpg);
+
+    background-repeat: no-repeat;
+    height: 700px;
+
+    background-size: cover;
+}
+.news_footer{
+    background:url(../images/news.jpg);
+
+    background-repeat: no-repeat;
+    height: 700px;
+
+    background-size: cover;
+}
+.student_footer{
+    background:url(../images/student.jpg);
+
+    background-repeat: no-repeat;
+    height: 700px;
+
+    background-size: cover;
+}
+/*.gandhi_glance{
+background:url(../images/gandhi_glance.jpg);
+
+    background-repeat: no-repeat;
+    height: 800px;
+
+    background-size: cover;
+}*/
+
+.academics_section h2{
+    font-weight: 600;
+
+font-size: 35px;
+
+color: #b1040e;
+}
+.academics_section h4{
+    font-size: 19px;
+
+line-height: 1.7;
+
+font-weight: 600;
+}
+.academics_section p{
+    font-size: 18px;
+
+color: #000;
+}
+.academic_page ul li {
+    color: rgb(33, 37, 41);
+    font-size: 18px;
+    position: relative;
+    line-height: 2;
+}
+.Placements{
+    padding: 60px 0px;
+}
+.Placements h2 {
+    font-size: 35px;
+    font-weight: 600;
+
+    text-align: left;
+}
+.Placements h5{
+    font-size: 20px;
+    margin-top: 20px;
+}
+.Placements h6{
+    font-size: 17px;
+    line-height: 1.6;
+}
+.Placements h4{
+    font-size: 22px;
+}
+.programs_page{
+    padding: 60px 0px;
+}
+.programs_page h2{
+    /*color: #b1040e;*/
+    font-size: 45px;
+    font-weight: 800;
+    margin-bottom: 55px;
+}
+
+.programs_page .nav-tabs .nav-link.active {
+
+    font-weight: bold;
+    background-color: transparent;
+    border-top: 3px solid #dd0000;
+    border-right: none;
+    border-left: none;
+   /* border-top: none;*/
+    border-radius: 0px !important;
+    color: #002147;
+    background: #ededed;
+
+}
+.programs_page .nav-tabs a {
+    font-size: 20px;
+    color: #635f5f;
+    padding: 20px;
+}
+.programs_page .Institute{
+   margin-top: 50px;
+
+border-bottom: 1px solid #eceaea;
+
+padding-bottom: 40px;
+}
+.programs_tab{
+    margin-top: 50px;
+}
+.programs_page h3{
+font-size: 24px;
+
+font-weight: 600;
+color: #b1040e;
+margin-bottom: 20px;
+}
+.programs_page ul li{
+/*font-size: 19px;*/
+font-weight: 500;
+line-height: 2.3;
+}
+.programs_page ul li{
+    position: relative;
+    list-style: none;
+}
+.programs_page ul li::before {
+
+    content: "\25A0 \0020";
+    color: #f58220;
+    position: absolute;
+   top: -2px;
+
+left: -32px;
+
+padding: 5px;
+
+font-size: 15px;
+
+}
+.programs_page ul li a{
+    text-decoration: none;
+    color: #002147;
+    font-size: 18px;
+}
+.programs_page ul li a:hover{
+    text-decoration: none;
+    color: #b1040e;
+}
+.programs_page .programs_inner h4{
+    font-size: 21px;
+    margin-top: 25px;
+}
+.course {
+    background: linear-gradient(rgba(255, 255, 255, 0) ,rgba(4, 4, 4, 0.7)), url(../images/banners/course.jpg);
+/*background-attachment: fixed;*/
+
+background-position: top left;
+
+background-repeat: no-repeat;
+height: auto;
+background-size: cover;
+position: relative;
+padding-bottom: 40px;
+}
+.course form {
+  background-color: #fff;
+  border-radius: 10px;
+  padding: 25px 30px 25px 26px;
+}
+
+.course .form-group > input:focus {
+ box-shadow: 0 0 0 0.2rem rgb(250, 117, 3);
+}
+
+.course .form-group > textarea:focus {
+  box-shadow: 0 0 0 0.2rem rgb(250, 117, 3);
+}
+.course_form {
+   margin-top: 20%;
+
+margin-bottom: 20%;
+}
+.course h2{
+font-size:75px;
+font-weight: 800;
+color: #fff;
+margin-top: 20%;
+text-align: left;
+
+}
+.course h3{
+font-size: 45px;
+font-weight: 800;
+color: #fff;
+text-align: left;
+
+}
+.course_form h3{
+font-size: 22px;
+margin-bottom: 15px;
+font-weight: 600;
+color: #000;
+}
+.course_form .form-control{
+    font-size: 14px;
+    min-height: 3.1em;
+    margin-bottom: 15px;
+
+padding: 0.4em 0.9em;
+}
+.course_form label{
+    color:#606060
+}
+.course_form button.more {
+
+    text-decoration: none;
+    color: #fff;
+    font-weight: 600;
+    font-size: 18px;
+    background: #b1040e;
+   margin-top: 20px;
+    padding: 10px;
+    text-align: center;
+margin-left: 0px;
+display: block;
+
+}
+.course_form button.more:hover {
+
+    text-decoration: none;
+    color: #fff;
+    font-weight: 600;
+    font-size: 18px;
+    background: #fa7503;
+    /*border: 2px solid #f58220;*/
+    padding: 10px;
+
+}
+#course_nav .nav .nav-item.show .nav-link, #course_nav .nav .nav-link.active {
+
+    color: #495057;
+    background-color: #fa7503;
+    border-color: transparent;
+
+    padding: 20px;
+    color: #fff;
+    font-weight: 600;
+
+font-size: 20px;
+
+}
+#course_nav .nav .nav-link{
+
+   border-right: 1px solid #e7e4e4;
+   border-bottom: 1px solid #e7e4e4;
+    padding: 20px;
+    font-size: 20px;
+    font-weight: 500;
+
+}
+#course_nav .fa::before {
+
+
+    padding-right: 12px;
+
+}
+.overview{
+    margin-top: 40px;
+}
+.overview p{
+    font-size:18px;
+    line-height: 1.8;
+}
+.overview .inner{
+    /*border: 1px solid #fa7503;*/
+    padding: 26px 0px 36px 25px;
+    /*height: 200px;*/
+}
+.overview .inner h3{
+font-size: 24px;
+
+color: #b1040e;
+
+font-weight: 600;
+}
+.overview .inner h4{
+font-size: 18px;
+
+margin-top: 15px;
+margin-left: 41px;
+}
+ .overview .inner h4 a{
+color:rgb(33, 37, 41);
+text-decoration: none;
+}
+.eligibility{
+    /*margin-top: 40px;*/
+    padding: 50px 0px;
+    background: #f5f5f5;
+}
+.eligibility h2{
+    font-size:40px;
+    font-weight: 600;
+    margin-bottom: 20px;
+}
+.eligibility ul{
+    list-style: none;
+}
+.eligibility ul li {
+
+    position: relative;
+    line-height: 2.6;
+    font-size: 19px;
+
+}
+.eligibility ul li::before {
+    content: "\25A0 \0020";
+    color: #f58220;
+    position: absolute;
+    top: -2px;
+    left: -32px;
+    padding: 5px;
+    font-size: 15px;
+}
+.fee{
+    /*margin-top: 70px;*/
+    padding: 50px 0px;
+
+}
+.scholarships h3{
+    margin-bottom:20px;
+    margin-left: 0px;
+
+color: #b1040e !important;
+}
+/*.fee_page tbody > tr:last-child > td {
+  border: 0;
+}*/
+.scholarships h4 {
+    background: #e7e6e6;
+    padding: 15px;
+    width: 100%;
+    font-size: 20px;
+    margin-bottom: 20px;
+    font-weight: 600;
+    line-height: 1.7;
+}
+.scholarships h5 {
+
+    font-size: 18px;
+
+}
+.fee h2{
+    font-size:40px;
+    font-weight: 600;
+    margin-bottom: 50px;
+}
+.fee .nav-item.show .nav-link, .fee .nav-link.active {
+
+    color: #495057;
+    background-color: #b1040e;
+    border-color: transparent;
+    padding: 12px;
+    color: #fff;
+    font-weight: 600;
+    font-size: 19px;
+    border-radius: 0px !important;
+
+}
+.fee .nav-link{
+
+    color: #495057;
+
+    border-color: transparent;
+    padding: 12px;
+
+    font-size: 19px;
+    border-radius: 0px !important;
+
+}
+.table .thead-dark th {
+    color: #fff;
+    background-color: #30393a;
+    border-color: #30393a;
+    text-align: center;
+}
+/*.table .thead-light th {
+
+    text-align: center;
+}
+.table  td {
+
+    text-align: center;
+}*/
+.fee table h3{
+    text-align: center;
+padding-top: 13%;
+
+font-weight: 600;
+
+font-size: 21px;
+
+color: #b1040e;
+}
+#Financial h5{
+font-size: 25px;
+margin-top: 29px;
+
+margin-bottom: 30px;
+}
+#Financial ul li {
+    position: relative;
+    line-height: 2.6;
+    font-size: 19px;
+    list-style: none;
+}
+#Financial ul li::before {
+    content: "\25A0 \0020";
+    color: #f58220;
+    position: absolute;
+    top: -7px;
+    left: -32px;
+    padding: 5px;
+    /*font-size: 15px;*/
+}
+.how_apply{
+    /*margin-top: 70px;*/
+    padding: 50px 0px;
+    /*background: #f5f5f5;*/
+}
+.how_apply h2{
+    font-size:40px;
+    font-weight: 600;
+    margin-bottom: 40px;
+}
+.how_apply ul{
+    list-style: none;
+}
+.how_apply ul li {
+
+    position: relative;
+    line-height: 2.6;
+    font-size: 19px;
+
+}
+.how_apply ul li::before {
+    content: "\25A0 \0020";
+    color: #f58220;
+    position: absolute;
+    top: -6px;
+    left: -32px;
+    padding: 5px;
+    font-size: 18px;
+}
+.how_apply h3{
+    color: #b1040e;
+font-size: 25px;
+}
+.how_apply p{
+    font-size: 20px;
+    line-height: 2;
+    text-align: justify;
+}
+.how_apply a{
+    color: #b1040e;
+
+}
+.how_apply h4{
+    color: #b1040e;
+font-size: 22px;
+}
+
+/*fee structure*/
+.fee_page{
+    padding: 60px 0px;
+}
+.fee_page .card-header > a.collapsed::before {
+
+    float: right !important;
+    font-family: FontAwesome;
+    content: "\f067";
+    padding: 2px 10px 1px 11px;
+background: #b1040e;
+border-radius: 50%;
+color: #fff;
+font-size: 17px;
+
+text-align: center;
+margin:25px 18px 25px 0;
+text-decoration: none;
+
+}
+.fee_page .card-header > a::before {
+
+    float: right !important;
+    font-family: FontAwesome;
+    content: "\f068";
+   padding: 2px 10px 1px 11px;
+margin:25px 18px 25px 0;
+background: #b1040e;
+
+border-radius: 50%;
+
+color: #fff;
+
+font-size: 17px;
+
+
+
+text-align: center;
+
+
+
+text-decoration: none;
+
+}
+
+
+
+/*.fee_page .panel-body{
+    margin-top: 40px;
+}*/
+.fee_page h3 {
+    font-size: 25px;
+    font-weight: 600;
+    color: rgb(33, 37, 41);
+    /*margin-bottom: 25px;*/
+    padding: 25px 0;
+}
+.fee_page .card h4 a {
+    text-decoration: none;
+
+}
+.fee_page h4{
+   /* background: #f5f5f5;*/
+
+/*padding: 30px;*/
+}
+h4.links_title{
+    margin-top: 0px !important;
+}
+.fee_page table h4 {
+    text-align: center;
+    /*padding-top: 4%;*/
+    font-weight: 600;
+    font-size: 20px;
+    color: #b1040e;
+}
+.fee_page .table td, .table th {
+   vertical-align: middle;
+  /* text-align: center;*/
+  }
+.fee_page table h5 {
+    font-size: 18px;
+    text-align: center !important;
+    margin-top: 18px !important;
+    color: #212529 !important;
+    border: none !important;
+}
+.fee_page .card{
+    border: none;
+    border-radius: 0px;
+}
+.fee_page .card a{
+    text-decoration: none;
+}
+.fee_page .card-header {
+   padding:0 10px;
+    /*margin-bottom: 0;*/
+    background-color: #f5f5f5;
+    border-bottom: none;
+    margin-bottom: 15px !important;
+}
+.table .thead-light th {
+    color: #495057;
+    background-color: #e9ecef;
+    border-color: #dee2e6;
+    text-align: center;
+}
+/*admissions*/
+.admissions_page{
+    padding: 60px 0px;
+}
+.admissions_page h2 {
+
+    font-size: 42px;
+    font-weight: 700;
+    margin-bottom: 45px;
+
+}
+
+.admissions_page .left_block h6 {
+    background: #fff;
+    padding: 15px;
+    text-align: center;
+    color: #000;
+    font-weight: 500;
+    font-size: 20px;
+    box-shadow: 0px 0px 3px #f0f0f0;
+    border: 1px solid #ececec;
+}
+.left_block{
+    margin: 30px 0px;
+}
+.left_block img{
+    width: 100%;
+}
+a{
+    text-decoration: none !important;
+}
+.admissions_page button{
+font-size: 20px;
+
+
+
+}
+.admissions_page button .fa:before{
+    padding-left:10px;
+}
+.admissions_page button i{
+    margin-top: 12px;
+}
+.admissions_page  .btn-danger
+      {
+
+    background-color: #b1040e !important;
+    border-color: #b1040e !important;
+    color: #ffffff !important;
+    margin: 0;
+    padding: 6px;
+    border-radius: 0px;
+    width: 100%;
+    padding: 20px;
+    font-weight: 600;
+font-size: 26px;
+
+}
+.admissions_page  .btn-danger:hover{
+     background-color: #fa7503  !important;
+    border-color: #fa7503  !important;
+
+}
+.prospectus{
+    margin: 30px 0px;
+}
+.prospectus .fa::before {
+
+    color: #fa7503;
+    font-size: 30px;
+}
+.prospectus h5 {
+    font-size:19px;
+    margin-top: 10px;
+    font-weight: 500;
+
+}
+a .prospectus {
+
+    color: #000;
+}
+.prospectus:hover {
+
+    color: #b1040e;
+}
+.prospectus{
+    text-align: center;
+border: 2px solid #fa7503;
+padding:16px 10px 13px 10px;
+}
+.admissions_section img{
+    width: 65px;
+    margin: auto;
+    display: block;
+}
+.admissions_section .inner h4{
+    margin-top: 20px;
+    text-align:center;
+    color: #b1040e;
+    font-weight: 600;
+    font-size: 21px;
+
+}
+.admissions_section .inner h5{
+    text-align: center;
+    font-size: 18px;
+}
+.admissions_section .inner a{
+    color: #000;
+}
+.admissions_section .inner:hover{
+    border: 2px solid #fa7503;
+
+padding: 18px;
+}
+
+.admissions_section .inner{
+     border: 2px solid #fff;
+    padding: 18px;
+    margin-bottom: 25px;
+
+}
+.c_content {
+    background: #fff;
+    min-height: 100px;
+    position: relative;
+    text-align: center;
+    padding: 0px 0;
+}
+.c_content img {
+    width: 100%;
+}
+.c_content h4 {
+    padding: 0;
+    text-align: center;
+    margin: 0;
+    font-size: 23px;
+    padding: 10px;
+    background: #95162d;
+    color: #fff;
+}
+
+.c_content h6 {
+
+    font-size: 19px;
+    min-height: 100px;
+    border:1px solid #e1e1e1;
+    border-top: none;
+    padding-top: 20px;
+}
+.programs-width  a h6{
+    color: #000;
+}
+.programs-width h4:hover{
+
+
+    background: #fa7503;
+
+}
+
+.international_admissions{
+    background: url("../images/Foreign.jpg");
+    background-size: cover;
+    height: 400px;
+}
+
+
+.admissions_bottom{
+   /* background:url("https://gat.gitam.edu/assets/images/solutions_bg.png");*/
+     background:url("../images/solutions_bg.jpg");
+    background-size: cover;
+    background-position: top;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    /*height: 500px;*/
+    padding: 130px 0px;
+}
+.admissions_bottom img{
+    width: 75px;
+}
+.admissions_bottom .inner{
+    background: rgba(0, 0, 0, .6);
+padding: 20px;
+text-align: center;
+height: 210px;
+padding-top: 30px;
+margin-bottom: 25px;
+}
+.admissions_bottom .inner h4{
+    font-size: 18px;
+    margin-top: 20px;
+    color: #fff;
+}
+.section-links.admissions1{
+    margin-top: 8px;
+}
+.section-links.admissions1 li{
+    color: #b1040e;
+}
+.help_page{
+    padding: 70px 0px;
+}
+.help_page h2 {
+
+    font-size: 45px;
+    font-weight: 800;
+    margin-bottom: 55px;
+}
+.help_page h3 {
+    font-size: 27px;
+    font-weight: 600;
+    color: #b1040e;
+    margin-bottom: 25px;
+}
+.help_desk .inner{
+    margin-bottom: 45px;
+}
+.help_page .fa:before {
+    color: #fa7503;
+    padding-right: 5px;
+}
+.help_page h4{
+    font-size: 24px;
+
+}
+.help_page h5{
+    font-size: 21px;
+    line-height: 1.8;
+}
+.help_page h6{
+    font-size: 18px;
+    line-height: 1.8;
+}
+.help_page .tab-content{
+    margin-top: 50px;
+}
+.help_page .nav-tabs .nav-link.active {
+
+    font-weight: bold;
+    background-color: transparent;
+    border-top: 3px solid #dd0000;
+    border-right: none;
+    border-left: none;
+   /* border-top: none;*/
+    border-radius: 0px !important;
+    color: #002147;
+    background: #ededed;
+    padding:15px
+
+}
+.help_page .nav-tabs .nav-link{
+    padding: 15px;
+}
+.help_page .nav-tabs a {
+
+    font-size: 22px;
+    color: #635f5f;
+
+}
+.help_page .Institute{
+   margin-top: 50px;
+
+border-bottom: 1px solid #eceaea;
+
+padding-bottom: 40px;
+}
+.student_page{
+    padding: 70px 0px;
+}
+
+.student_page h3{
+    font-size: 27px;
+    font-weight: 600;
+    margin-bottom: 24px;
+    border-bottom: 1px solid #e9e6e6;
+    padding-bottom: 13px;
+    color: #b1040e;
+    text-align: center;
+}
+.student_links h4{
+    font-size: 21px;
+line-height: 1.3;
+margin-bottom: 20px;
+text-align: center;
+}
+.student_links img{
+    margin:auto;
+   margin-bottom: 20px;
+border-bottom: 1px solid #e9e0e0;
+padding-bottom: 20px;
+width: 120px;
+display: block;
+
+/*margin-left: 20px;*/
+}
+.student_links a{
+    color: #000;
+}
+.student_links a:hover{
+    color: #b1040e;
+}
+.student_page .links img{
+    width: 65px;
+    margin: auto;
+    display: block;
+}
+
+.student_page .links a.more {
+    text-decoration: none;
+    color: #b1040e;
+    font-weight: 600;
+    text-align: center;
+    display: block;
+}
+.student_page h2 {
+    /*color: #b1040e;*/
+    font-size: 45px;
+    font-weight: 800;
+    margin-bottom:60px;
+    padding-top: 10px;
+}
+.student_page .links{
+    padding: 0px;
+}
+
+.media_page{
+    padding: 70px 0px;
+}
+.media_page .contact_form .form-group {
+
+    margin-bottom:2rem;
+
+}
+.media_page .contact_address h5{
+    font-size: 23px;
+    line-height: 1.8;
+}
+.media_page .contact_address p{
+    font-size: 18px;
+    color: #b1040e;
+
+}
+.media_page .contact_address {
+    margin-left: 20px;
+}
+.media_press{
+    border: 1px solid #eeebeb !important;
+    padding:25px;
+
+  height: 100%;
+
+min-height: 145px;
+}
+.press_images{
+  border: 2px solid #f58220  !important;
+    max-height: 370px;
+    overflow: hidden;
+    margin-bottom: 30px;
+}
+.media_page .press_images img {
+
+   width: 100%;
+    margin-bottom: 20px;
+    /*border: 2px solid #fa7503;*/
+
+    padding: 20px;
+    min-height: 370px;
+
+
+}
+.media_page img{
+    width: 100%;
+}
+.media_page h4 {
+
+    font-size: 21px;
+    color: #000;
+    font-weight: 600;
+    margin-top: 25px;
+    position: absolute;
+    bottom: 0;
+
+
+}
+.fancybox-container{
+    z-index: 99999999;
+}
+.overlayi {
+
+
+    position: absolute;
+   top: 31%;
+
+left: 37%;
+
+color: #fff;
+
+font-size: 60px;
+
+}
+.media_page .btn-info {
+background-color: #b1040e !important;
+border: 2px solid #b1040e !important;
+font-size: 18px !important;
+padding: 10px 15px 10px 15px;
+color: #ffff !important;
+text-decoration: none;
+margin-top: 15px;
+margin-right: 0px;
+border-radius: 0px;
+float: right;
+
+}
+.media_page .btn-info:hover {
+    border: 2px solid #fa7503 !important;
+    font-size: 18px !important;
+    padding: 10px 15px 10px 15px;
+    color: #fff !important;
+    text-decoration: none;
+    background: #fa7503 !important;
+    border-radius: 0px;
+}
+/*.media_page .col-xl-4{
+    border-bottom: 0px solid #eceaea !important;
+}*/
+.media_page .fa-long-arrow-right::before {
+
+    content: "\f178";
+    padding-left: 5px;
+    color: #fff;
+
+}
+.media_page i{
+    margin-top: 5px;
+}
+.news_box{
+    margin-bottom: 30px;
+}
+.media_press ul{ padding-left: 0PX;   }
+.media_press ul li{
+    list-style: none;
+float: left;
+padding-right: 35px;color: #b1040e;
+}
+.media_press ul li::before {
+    content:'';
+}
+.media_press h3{
+    font-size: 22px;
+margin-bottom: 17px;
+}
+.media_press .fa{
+    color: #fa7503;
+    padding-right: 8px;
+}
+ a:focus, a {
+    color: #000;
+}
+ .media_press h3:hover{
+color: #b1040e;
+}
+.media_select{
+    padding-bottom: 30px !important;
+}
+.media_select .form-control{
+    font-size: 16px;
+   min-height: 2.5em;
+padding: .4em .5em;
+    color: #0c0c0c !important;
+
+}
+.media_select .form-control, .media_select .form-control:focus, .media_select input {
+    border: 1px solid #fa7503;
+}
+.media_select select.form-control:not([size]):not([multiple]) {
+    height: calc(1rem + 0px);
+}
+.careers h3 {
+    font-size: 22px;
+    font-weight: 600;
+    color: rgb(33, 37, 41);
+    margin-bottom: 25px;
+  padding:25px 0
+}
+.careers .btn-danger {
+    text-decoration: none;
+    color: #fff;
+    font-weight: 600;
+    font-size: 18px;
+    background: #b1040e !important;
+    border:none;
+    padding: 15px;
+}
+.careers .btn-danger:hover {
+    text-decoration: none;
+    color: #fff;
+    font-weight: 600;
+    font-size: 18px;
+    background: #fa7503 !important;
+
+    padding: 15px;
+}
+.careers h6{
+    font-size: 20px;
+margin-bottom: 30px;
+}
+.careers .card-body{
+    padding: 15px;
+    border: 1px solid #eeebeb;
+}
+.careers i{
+    margin-top: 5px;
+}
+.careers .card-header {
+
+    margin-bottom: 0px;
+}
+.careers .card {
+
+
+    margin-bottom: 30px;
+
+}
+.careers .fa::before{
+    padding-left: 8px;
+}
+
+.careers .fa{display: none}
+/*.student_campus{
+    padding: 70px 0px;
+}*/
+.student_campus h3{
+    font-size: 23px;
+margin-bottom: 15px;
+padding:25px 0;
+font-weight: 600;
+}
+.student_campus p{
+    text-align: justify;
+    line-height: 2;
+}
+.student_campus a.more{
+    color: #b1040e;
+    font-weight: 600;
+}
+.campus_related h3{
+    font-size: 26px;
+margin-bottom: 15px;
+color: #b1040e;
+font-weight: 600;
+}
+
+.campus_related ul li{
+    list-style: none;
+    line-height: 2.4;
+   font-size: 18px;
+}
+.campus_related ul li a:hover{
+    color: #b1040e;
+}
+.campus_related ul{
+    padding-left: 0px;
+}
+.student_inner h5{
+    font-size: 23px;
+color: #b1040e;
+margin-top: 5px;
+margin-bottom:10px;
+}
+.right-new-bar {
+    position: fixed;
+    top: 40%;
+    right: 0;
+    z-index: 11111;
+
+
+}
+.right-new-bar a {
+    color: #fff;
+}
+.sbtn1 {
+    display: inline-block;
+    width: 65px;
+    overflow: hidden;
+   background: #b1040e;
+text-align: center;
+padding: 6px 80px 5px 20px;
+font-weight: 600;
+font-size: 21px;
+border-bottom: 5px solid #fa7503;
+
+}
+.right-new-bar i {
+
+    color: #fff !important;
+
+}
+
+/*in campus*/
+ .student_campus #accordionEx1 img.pull-left{ margin-right:20px; }
+
+ .caste{
+    padding: 70px 0px;
+ }
+.caste p{
+text-align: justify;line-height: 2;
+font-size: 18px;
+}
+ .caste_form .modal-dialog {
+    max-width: 800px !important;
+    margin-top: 90px;
+}
+.caste_form .modal-content{
+padding: 30px;
+}
+.caste_form .modal-title{
+    font-size: 25px;
+color: #b1040e;
+margin-bottom: 10px;
+}
+.caste_form .form-control{
+    font-size: 14px;
+}
+.caste_form .modal-header .close {
+    padding: 0em;
+
+    font-size: 30px;
+}
+.caste h3{
+    font-size: 30px;
+margin-bottom: 25px;
+}
+.caste .btn-danger, .caste_form .btn-danger {
+    background-color: #b1040e !important;
+    border-color: #b1040e !important;
+    color: #ffffff !important;
+    margin: 0;
+    padding: 6px;
+    border-radius: 0px;
+
+    padding: 14px;
+    font-weight: 600;
+    font-size: 18px;
+}
+.auditoriums{
+    padding: 70px 0px;
+}
+.auditoriums h3{
+    font-size: 23px;
+margin-bottom: 10px;
+color: #b1040e;
+}
+.auditoriums h2{
+    font-size: 28px;
+    margin-bottom: 15px;
+}
+.auditoriums .inner{
+    border: 1px solid #eeebeb;
+margin-bottom: 20px;
+padding: 15px;
+}
+.auditoriums .inner ul li{
+    list-style: none;
+}
+.auditoriums .inner ul{
+    padding-left: 0px;
+}
+.auditoriums .fa{
+	color: #fa7503;
+
+font-size: 18px;
+
+padding-right: 8px;
+}
+.bus_services{
+    padding: 70px 0px;
+}
+.bus_services h2{
+    font-size: 30px;
+
+margin-bottom: 30px;
+}
+.bus_services h3{
+  font-size: 25px;
+
+color: #b1040e;
+
+margin-bottom: 20px;
+}
+
+
+/*news*/
+.data-found{
+    font-size: 30px;
+    color:#b1040e;
+}
+.more_news{
+    float: right !important;
+}
+li.more_news  {
+
+    color: #fff !important;
+
+font-size: 15px;
+
+background: #b1040e;
+
+padding: 5px 10px 6px 10px !important;
+
+
+
+font-weight: 600;
+
+   /* text-decoration: underline !important;*/
+
+}
+/*li.more_news:hover {
+
+    color: #fff !important;
+padding: 5px 13px 6px 13px !important;
+font-size: 15px;
+
+background: #fa7503;
+
+font-weight: 600;
+
+
+
+}*/
+
+
+/*evaluation*/
+#administration img{
+width: 55px;
+}
+#administration .inner{
+    border: none;
+}
+#administration .col-xl-3{
+    border-bottom: 1px solid #eceaea;
+padding-bottom: 20px;
+margin-top: 35px;
+}
+.academic_page .col-xl-4{
+    border-bottom: 1px solid #eceaea;
+padding-bottom: 20px;
+margin-top: 35px;
+}
+.media_page  .col-xl-4{
+border-bottom: 0px solid #eceaea;
+}
+.student_page .col-xl-4{
+    border-bottom: 1px solid #eceaea;
+padding-bottom: 20px;
+margin-top: 35px;
+}
+#administration h4{
+    font-size: 21px;
+font-weight: 600;
+margin-top: 20px;
+}
+.evaluation{
+    padding: 70px 0px;
+}
+.norms img{
+    width: 55px;
+    position: relative;
+}
+.office{
+    margin-bottom: 30px;
+}
+.norms h3 span{
+    position: absolute;
+margin-top: 5px;
+
+left: 80px;
+}
+.norms h3{
+    font-size: 31px;
+font-weight: 600;
+color: #b1040e;
+}
+.norms ul {
+margin-top: 20px;
+    list-style: none;
+
+}
+.norms ul li {
+
+    color: rgb(33, 37, 41);
+    font-size: 18px;
+    position: relative;
+    line-height: 2;
+
+}
+.norms ul li::before {
+
+    content: "\25A0 \0020";
+    color: #f58220;
+    position: absolute;
+    top: -6px;
+left: -28px;
+padding: 5px;
+font-size: 17px;
+
+}
+.evaluation h4 {
+
+    font-size: 24px;
+    font-weight: 600;
+    margin-bottom: 24px;
+    border-bottom: 1px solid #e9e6e6;
+    padding-bottom: 13px;
+    color: #b1040e;
+    /*margin-top: 80px;*/
+
+}
+.evaluation .evaluation_rightblock h6 {
+    background: #fff;
+    padding: 10px;
+    text-align: center;
+    color: #000;
+    font-weight: 500;
+    font-size: 20px;
+    box-shadow: 0px 0px 3px #f0f0f0;
+    border: 1px solid #ececec;
+}
+.evaluation .related_links{
+    margin-top: 20px;
+}
+.evaluation .related_links h6{
+font-size: 18px;
+line-height: 2;
+margin-left: 10px;
+}
+
+.evaluation .evaluation_contact h5 {
+    font-size: 23px;
+    margin-top: 20px;
+    color: #b1040e;
+
+}
+.evaluation .evaluation_contact h6 {
+font-size:18px;
+line-height: 1.8;
+
+}
+.evaluation .related_links h6 a:hover{
+    color: #b1040e;
+}
+.evaluation li span{
+    font-size: 21px;
+    font-weight: 600;
+}
+.evaluation h5 {
+
+    font-size: 18px;
+    margin-top: 15px;
+
+    font-size: 20px;
+
+
+}
+.evaluation .main-content h3{
+font-size: 31px !important;
+    font-weight: 600 !important;
+    color: #b1040e;
+}
+.contact_page .main-content .table td, .table th {
+
+    padding: 0.7em;
+    font-size: 18px;
+
+}
+.contact_page .main-content .table thead th {
+
+    vertical-align: bottom;
+    border-bottom: 2px solid #dee2e6;
+    font-size: 19px;
+    color: #002147;
+    font-weight: 600;
+
+}
+
+.evaluation h2 {
+
+    font-size: 40px;
+    font-weight: 600;
+    margin-bottom: 5px;
+
+}
+ .all {
+    margin-top: 37px;
+}
+ .all a{
+    background: #fa7503;
+padding: 8px 15px 12px 14px;
+color: #fff;
+font-weight: 600;
+margin-top: 39px;
+font-size: 16px;
+margin-left: 16px;
+}
+.norms p img{
+    width: 25px;
+}
+.norms p span{
+    margin-left: 8px;
+}
+.evaluation ul.exam{
+    margin-left: 35px;
+}
+.evaluation ul.exam li a{
+    text-decoration: underline !important;
+}
+.evaluation p span{
+    background: #f58220;
+
+padding: 1px 9px 1px 9px;
+
+/*border-radius: 50%;*/
+
+color: #fff;
+
+margin-right: 11px;
+
+font-weight: 600;
+position: absolute;
+left: 0px
+}
+
+.evaluation .norms p{
+    margin-left: 40px;
+}
+/*notifications*/
+.notifications .event-wrapper {
+
+    display: flex;
+}
+.notifications .event-wrapper .event-calender-wrapper {
+
+ margin: 6px 16px 0px 0px;
+
+padding-right: 10px;
+}
+.notifications .event-wrapper .event-calender-holder {
+    position: relative;
+    padding-top: 10px;
+    text-align: center;
+    width: 100px;
+    background: #1f4363;
+}
+.notifications .event-wrapper .event-calender-holder::before {
+    content: "\f111";
+    position: absolute;
+    left: 10px;
+    top: 7px;
+    color: #fff;
+    font-size: 6px;
+    font-family: FontAwesome;
+}
+.notifications .event-wrapper .event-calender-holder::after {
+    content: "\f111";
+    position: absolute;
+    right: 10px;
+    top: 7px;
+    color: #fff;
+    font-size: 6px;
+    font-family: FontAwesome;
+}
+.notifications .event-wrapper .event-calender-holder h3 {
+    font-size: 28px;
+    color: #fff;
+  /*  margin-bottom: 0;*/
+    /*line-height: 1;*/
+    font-weight: 600;
+}
+
+.notifications .event-wrapper .event-calender-holder p {
+   /* background: #fff;*/
+    display: block;
+    color: #fff;
+    font-size: 19px;
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: 600;
+    /*margin-bottom: 0px;*/
+
+    border-bottom: 5px solid #fa7503;
+    padding-bottom: 10px;
+}
+.notifications .event-wrapper .event-calender-holder h5{
+     color: #fff;
+    font-size: 19px;
+    text-align: center;
+   text-transform: uppercase;
+    font-weight: 600;
+}
+.notifications .event-wrapper .event-content-holder {
+    -webkit-box-flex: 3;
+    -moz-flex: 3;
+    -webkit-flex: 3;
+    flex: 3;
+}
+.notifications .event-wrapper .event-content-holder h3 {
+    font-size: 19px;
+    text-align: left;
+    /*margin-bottom: 8px;*/
+    margin-bottom: 10px;
+    color: #000;
+    line-height: 1.5;
+}
+.notifications .event-wrapper .event-content-holder h3 a {
+    color: #b1040e;
+    text-decoration: none;
+}
+.notifications  ul {
+    list-style: outside none none;
+    margin: 0;
+    padding: 0;
+    float: left;
+
+padding-right: 35px;
+}
+.notifications .events .fa::before {
+    padding-right: 5px;
+    color: #fa7503;
+}
+.notifications .event-content-holder ul li{
+    /*float: left !important;*/
+    padding-right: 15px;
+    margin-top: 3px;
+    font-size: 18px;
+    color: #b1040e;
+}
+.notifications .btn-danger, .notifications .btn-danger:active {
+
+    background-color: transparent !important;
+    border: 1px solid #fa7503 !important;
+    color: #171310 !important;
+    margin: 0px;
+    padding: 6px 10px 6px 10px;
+    font-size: 16px;
+margin-top: -15px;
+z-index: 999999;
+}
+.notifications .btn-danger:hover{
+    color: #fff !important;
+
+background-color: #f58220 !important;
+
+border-color: #f58220;
+}
+.notifications i .fa .fa-university{
+    font-size: 16px !important;
+}
+
+/*In-campus*/
+.inner-slider  .card {
+  margin: 0 auto;
+ padding: 0px;
+  border:none
+}
+
+.inner-slider .carousel-caption {
+    bottom: 0px;
+}
+
+.inner-slider .carousel-item { width:100%; }
+
+ .inner-slider .card .carousel-item img{
+  width:100%
+}
+ .inner-slider .card .carousel-caption {
+  padding: 0;
+  right: 0;
+  left: 0;
+
+  background:rgba(0,0,0,0.5);
+  position:absolute;
+  bottom:0px;
+}
+ .inner-slider .card .carousel-caption h3 {
+  color: #fff;
+  text-align:left;
+  padding:20px;
+  margin-bottom: 0px;
+}
+ .inner-slider .card .carousel-caption p {
+  line-height: 30px;
+}
+ .inner-slider .card .carousel-caption .col-sm-3 {
+  display: flex;
+  align-items: center;
+}
+ .inner-slider .card .carousel-caption .col-sm-9 {
+  text-align: left;
+}
+ .inner-slider .navi a {
+    text-decoration:none;
+}
+ .inner-slider a > .ico {
+
+    padding: 10px;
+
+}
+ .inner-slider a:hover > .ico {
+    background-color: transparent;
+}
+
+.inner-slider .navi {
+    position: absolute;
+    right: 40px;
+    bottom: 11px;
+
+}
+
+.incampus_campus .mosaic .row, .incampus_campus .mosaic .row [class*="col-"]{ padding:0px; margin:0px; position:relative; }
+.incampus_campus .mosaic img{  width:100%; }
+.incampus_campus .mosaic .img-caption{ position:absolute; bottom:0px; left:0px; background: linear-gradient(to bottom, transparent, black); color:#fff; padding-top:50px;  width:100%;}
+.incampus_campus .mosaic .img-caption h5{ padding:10px 15px; font-size:18px; }
+.incampus_campus .mosaic .img-caption span{  background-color:rgb(177, 4, 14); padding:2px 6px; }
+.in_campus_top{
+    padding: 60px 0px;
+}
+.in_campus_side{
+    padding-top: 30px;
+}
+.in_campus_top ul li a:hover{
+    color: #b1040e;
+}
+
+.ul_type ul li {
+
+    color: rgb(33, 37, 41);
+    font-size: 17px;
+    position: relative;
+    line-height: 2;
+list-style: none;
+}
+.ul_type ul li::before {
+
+    content: "\25A0 \0020";
+    color: #f58220;
+    position: absolute;
+    top: -5px;
+    left: -30px;
+    padding: 5px;
+    font-size: 16px;
+
+}
+
+.ul_type .fa::before {
+
+
+    color: #f58220;
+    padding-right: 8px;
+
+}
+
+.nat-modal{top:7%;max-width: 650px;}
+.nat-modal .modal-title{font-size: 20px;}
+.mdl-btn{color:#b1040e;}
+.nat-modal label{font-size: 13px;padding-right: 0px}
+.nat-modal sup{color:red;font-size: 100%}
+
+  .apply-now-page{
+        padding: 70px 0px;
+    }
+
+    .apply-now-page .form-control{
+        font-size: 19px;
+
+    }
+    .apply-now-page .form-control, .form-control:focus {
+    border: 1px solid #fa7503;
+}
+.apply-now-page label{
+    font-size: 23px;
+}
+.apply-now-page button.more {
+
+    color: #fff;
+    font-weight: 600;
+    font-size: 23px;
+    background: #b1040e ! important;
+    padding: 25px 50px 25px 50px;
+    margin: auto;
+    display: block;
+    border: none !important;
+
+}
+.apply-now-page button.more:hover {
+
+    color: #fff;
+    font-weight: 600;
+    font-size: 23px;
+    background: #fa7503 !important;
+    padding: 25px 50px 25px 50px;
+
+}
+.apply-now-page .form_btn{
+    margin-top: 65px;
+}
+
+#course_nav .nav li.active > a {
+    background-color: #fa7503;
+    color: #fff;
+}
+
+/*In-campus*/
+.inner-slider .card {
+    margin: 0 auto;
+    padding: 0px;
+    border: none;
+}
+.inner-slider .carousel-caption {
+    bottom: 0px;
+}
+
+.inner-slider .carousel-item { width:100%; }
+
+ .inner-slider .card .carousel-item img{
+  width:100%
+}
+ .inner-slider .card .carousel-caption {
+  padding: 0;
+  right: 0;
+  left: 0;
+
+  background:rgba(0,0,0,0.5);
+  position:absolute;
+  bottom:0px;
+}
+ .inner-slider .card .carousel-caption h3 {
+  color: #fff;
+  text-align:left;
+  padding:20px;
+  margin-bottom: 0px;
+}
+ .inner-slider .card .carousel-caption p {
+  line-height: 30px;
+}
+ .inner-slider .card .carousel-caption .col-sm-3 {
+  display: flex;
+  align-items: center;
+}
+ .inner-slider .card .carousel-caption .col-sm-9 {
+  text-align: left;
+}
+ .inner-slider .navi a {
+    text-decoration:none;
+}
+ .inner-slider a > .ico {
+
+    padding: 10px;
+
+}
+ .inner-slider a:hover > .ico {
+    background-color: transparent;
+}
+
+.inner-slider .navi {
+    position: absolute;
+    right: 40px;
+    bottom: 11px;
+
+}
+
+.incampus_campus .mosaic .row, .incampus_campus .mosaic .row [class*="col-"]{ padding:0px; margin:0px; position:relative; }
+.incampus_campus .mosaic img{  width:100%; }
+.incampus_campus .mosaic .img-caption{ position:absolute; bottom:0px; left:0px; background: linear-gradient(to bottom, transparent, black); color:#fff; padding-top:50px;  width:100%;}
+.incampus_campus .mosaic .img-caption h5{ padding:10px 15px; font-size:18px; }
+.incampus_campus .mosaic .img-caption span{  background-color:rgba(177, 4, 14, 0.69); padding:2px 6px; }
+
+label.error{
+            display: none !important;
+        }
+        select.error,input.error{
+            border:2px solid #b1040e !important;
+        }
+.capt,.capt1{padding:0px !important;}
+.capt{width: 40%;display: inline-block;float: left;}
+.capt1{width: 40%;display: inline-block;float: left;}
+.capt1 .formErrorContent{left: -110px;}
+.capt1 .formErrorArrow{left: -107px;}
+.form-control {
+  background-color: #f5f5f5;
+  box-shadow: none;
+  color: #565656;
+  font-family: 'Rubik', sans-serif;
+  font-size: 1rem;
+  line-height: 1.43;
+  min-height: 3.5em;
+  padding: 1.07em .5em;
+}
+.form-control > .mbr-iconfont {
+  font-size: 1.6rem;
+}
+.form-control,
+.form-control:focus {
+  border: 1px solid #e8e8e8;
+}
+.form-active .form-control:invalid {
+  border-color: red;
+}
+.capt1 i.fa-refresh {
+    color: #fff;
+    font-size: 18px;
+    padding-right: 10px;
+
+}
+.capt1 .btn:focus{border:none !important;box-shadow: none !important;}
+.main_slider a.url{cursor: default;}
+a:focus{
+    outline: none !important;
+}
+
+.bus_services .table tr th:nth-child(1) { text-align:left; }
+ .bus_services .table tr th:nth-child(2), .bus_services .table tr th:nth-child(3){ width:200px; text-align:center }
+ .bus_services .table tr td:nth-child(2), .bus_services .table tr td:nth-child(3){ text-align:center }
+
+/* research section*/
+.research-columns{
+	column-count: 3;
+}
+
+.funding ul li {
+    list-style: none;
+    position: relative;
+    color: #b1040e;
+    margin-bottom: 10px;
+}
+
+.funding ul li::before {
+
+    content: "\f08e";
+    font-family: FontAwesome;
+    left: -28px;
+    font-size: 16px;
+    top: 7px;
+    position: absolute;
+
+}
+.funding ul li a {
+ padding: 5px  0px;
+ display: block;
+
+}
+.funding ul li a:hover {
+	 color: #b1040e;
+}
+
+.research_centers h2, .research_director h2, .research_funding h2, .research-area h2 {
+font-size: 43px;
+font-weight: 600;
+margin-bottom: 25px;
+}
+.research_director .about-more{
+	margin-top: 35px !important;
+}
+.research_funding ul{
+	margin-top: 35px !important;
+}
+.research_footer {
+
+    background: url(../images/research_footer.jpg);
+        background-repeat: repeat;
+        background-size: auto;
+    background-repeat: no-repeat;
+    height: 700px;
+    background-size: cover;
+
+}
+.research_centers .inner{
+border: 1px solid #ccc;
+	height: 100%;
+}
+.research_centers .col-xl-4 {
+	border-bottom: none !important;
+	margin-top: 0px;
+}
+.research_centers{
+	padding-bottom: 50px;
+}
+
+
+/* careers */
+
+.prj_fel table th{width:16%;vertical-align: top;white-space: nowrap;}
+  .car-adv .card-body {
+    padding: 50px 0px 50px 30px;
+    border: 1px solid #eeebeb;
+}
+.prj_fel{/*margin-bottom: 15px;margin-right: 30px;padding:15px;*/}
+    .prj_fel a{color:#b1040e;} 
+    .prj_fel table tr th, .prj_fel table tr td {
+    border: none !important;text-align: left !important;
+}
+#collapse_research a{margin-right:20px ;}
+.ur{cursor: auto;}
+.loadMore {
+    text-align: center;
+    margin-top: 20px;
+    padding: 20px auto;
+    color: #b1040e;
+    cursor: pointer;
+}
+    .nat-modal{top:7%;max-width: 650px;}
+    .nat-modal .modal-title{font-size: 20px;}
+    .mdl-btn{color:#b1040e;}
+    .nat-modal label{font-size: 13px;padding-right: 0px}
+    .nat-modal sup{color:red;font-size: 100%}
+    .research-area .morecontent span {
+     display: none;
+     }
+    .research-area .morelink {
+         display: block;
+     }
+    .research-area .about-more a{
+       color: #981f2b;
+       font-weight: 600;
+       font-size: 18px;}
+       .academic-calendar .g-calendar{
+       background: #f6f6f6;
+           padding: 16px;
+           border-left: 8px solid #b1040e;
+           margin-bottom: 19px;
+       }
+
+       .academic-calendar .g-calendar h6 {
+       font-size:19px
+       }
+
+       .academic-calendar .g-calendar i:before {
+           color: #b1040e;
+           font-size: 23px;
+       }
+       .academic-calendar .student_page {
+       padding-top:0;
+       }
+       label.error{
+           display: none !important;
+       }
+       input.error{
+           border:2px solid #b1040e !important;
+       }
+       .mid-text{
+           float: right;
+       }
+       .caste_form sup{color:red;}
+       .evaluation .re-btn{padding: 14px;font-weight: 600;font-size: 18px;background-color:#b1040e !important;border-color:#b1040e !important;}
+       .aud_btn, .aud_btn:focus, .aud_btn:hover{
+    background-color: #b1040e !important;
+    font-size: 18px;
+    padding: 9px 15px 9px 15px;
+    font-weight: 500;
+    text-decoration: none;
+    margin-left: 0px;color:#fff !important;
+    border: 1px solid #b1040e !important;border-radius: 0px;box-shadow: none !important;
+}
+@media only screen and (max-width: 580px) {
+.caste_form .capt1,.caste_form .capt{width: 100%}
+}
+
+.careers_border{
+    border-left: 1px solid #ccc;
+}
+.careers .card-header{
+    margin-bottom: 0px !important
+}
+.careers {
+border-bottom: 1px solid #ffc621;
+}

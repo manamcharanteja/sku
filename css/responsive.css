@@ -1,0 +1,2200 @@
+@media only screen and (min-device-width : 600px) and (max-device-width : 1600px) { 
+	.container-section {
+    margin-right: auto;
+    margin-left: auto;
+    padding-right: 60px;
+    padding-left: 60px;
+ 
+}
+}
+
+@media only screen and (min-device-width : 576px) and (max-device-width : 660px) { 
+	.academic_mobile .dropdown-item{
+		overflow: hidden !important;
+
+text-overflow: ellipsis !important;
+	} 
+}
+@media only screen and (max-device-width : 360px) { 
+	.academic_mobile .dropdown-item{
+		overflow: hidden !important;
+
+text-overflow: ellipsis !important;
+	} 
+}
+@media  (max-device-width : 440px){
+	
+	
+	h1.title_heading{
+	font-size: 26px;
+	}
+	.campus h1.title_heading{
+		font-size: 22px;
+	}
+	
+
+	.top_header ul {
+  
+    margin: 0px;
+    padding: 0px !important;
+}
+.m_menu .dropdown-item {
+
+    font-size: 12px;
+
+}
+.top-left-nav ul li {
+  
+    margin-right: 0;
+}
+	
+  	.content_section{
+ 	padding: 30px 0px 50px 0px;
+ 	}
+ 	.admissions_inner {
+   
+    margin-top: 0% !important;
+    height: 1000px !important;
+	}
+ 	.admissions_inner .help_desk h4 {
+	margin-left: 0px;
+    font-size: 17px !important;
+    margin-bottom: 0px;
+	}
+	.admissions_inner {
+	border-bottom: 50px solid #b1040e !important;
+	}
+	.news_events .news ul li a{
+	font-size: 18px;
+	}
+	.news_events .news ul li {
+	margin-right: 0px;
+   }
+   .news_events .event-wrapper .event-content-holder h3 {
+	font-size: 19px;
+	margin-top: 0px;
+	}
+ 	.news_events .event-content-holder ul li{
+ 	font-size: 16px;
+ 	}
+ 	.news_events .event-wrapper .event-calender-holder h3 {
+	font-size: 26px;
+  	}
+  	.news_events .event-wrapper .event-calender-holder p {
+	font-size: 17px;
+	}
+	.news_events .news ul li {
+    margin-left: 10px;
+    }
+    /*p{
+    	text-align: left !important
+    }*/
+    .social-footer i { padding: 3px 9px; }
+}
+@media only screen and  (max-device-width : 299px){
+	.m_menu .dropdown-item {
+
+    font-size: 11px;
+
+}
+.main_top1 .text-marq{
+ 
+  white-space: nowrap!important;
+  overflow: hidden!important;
+  text-overflow: ellipsis!important;
+  max-width: 100px !important;
+}
+}
+@media only screen and (min-device-width : 300px) and (max-device-width : 440px){
+	.m_menu .dropdown-item {
+      font-size: 12px;
+    }
+    .main_top1 .text-marq{
+  white-space: nowrap!important;
+  overflow: hidden!important;
+  text-overflow: ellipsis!important;
+  max-width: 300px !important;
+}
+}
+@media only screen and (min-device-width : 441px) and (max-device-width : 625px){
+	.m_menu .dropdown-item {
+
+    font-size: 13px;
+
+}
+}
+
+@media only screen and (min-device-width : 626px) and (max-device-width : 740px){
+	.m_menu .dropdown-item {
+
+    font-size: 14px;
+
+}
+}
+
+@media only screen and (min-device-width : 441px) and (max-device-width : 576px){
+	h1.title_heading{
+	font-size: 27px;
+	}
+	.campus h1.title_heading{
+	font-size: 22px;
+	}
+	.container-section {
+	padding-right: 35px;
+    padding-left: 35px;
+  	}
+  	.content_section{
+ 	padding: 40px 0px 50px 0px;
+ 	}
+ 	.admissions_inner {
+	border-bottom: 70px solid #b1040e;
+	}
+ 	.admissions_inner .help_desk h4 {
+	margin-left: 0px;
+    font-size: 20px !important;
+	}
+}
+
+@media only screen  and (max-device-width : 400px){
+	.admissions {
+	height: 1000px;
+	}
+	.admissions_inner {
+	margin-top: 5%;
+	height: 930px;
+	margin-left: 0px;
+	border-bottom: 65px solid #b1040e;
+	}
+	.admissions_inner img {
+	width: 40px;
+    margin-left: -21px;
+	}
+	.admissions_inner h5 {
+	margin-left: 35px;
+	font-size: 15px;
+	margin-top:-45px;
+	}
+	.admissions_inner h5 span {
+
+    font-size: 18px;
+}
+	.admissions_inner p {
+    margin-left: 40px;
+    font-size: 15px;
+	}
+	.admissions_inner .help_desk h4 {
+	margin-left: 0px;
+    font-size: 17px;
+	}
+}
+@media  only screen and (min-device-width :401px) and (max-device-width : 500px){
+	.admissions {
+	height: 1066px;
+	}
+	.admissions_inner {
+	margin-top: 5%;
+	height: 970px;
+	margin-left: 0px;
+	border-bottom: 65px solid #b1040e;
+	}
+
+}
+@media  only screen and (min-device-width :501px) and (max-device-width : 800px){
+	
+	.admissions_inner {
+	margin-top: 1%;
+	height: 935px;
+	margin-left: 0px;
+	border-bottom: 65px solid #b1040e;
+	}
+
+}
+@media only screen  and (max-device-width :350px){
+	.admissions_inner img {
+	
+    display: none;
+	}
+	.admissions_inner h5{
+		margin-left: 0px;
+		margin-top: 0px;
+		font-size: 16px;
+	}
+	.admissions_inner ul li {
+	margin-top: 10px;
+}
+.admissions_inner h5 span{
+	font-size: 17px;
+}
+.admissions_inner .help_desk h4{
+	margin-bottom: 0px;
+	font-size: 17px !important;
+}
+.careers_lastdate{
+	font-style: 14px;
+}
+}
+
+@media only screen  and (max-device-width : 576px){
+	
+	
+	/*.logo img{
+		width: 180px !important;
+	}*/
+	.logo {
+
+    padding: 5px;
+}
+	.slider .item {
+	min-height: 120px;
+    }
+    p.careers_lastdate{
+    font-size:14px !important;
+    }
+    .slider .owl-nav .owl-prev i, .slider .owl-nav .owl-next i {
+	height: 35px;
+    width: 35px;
+    text-align: center;
+    font-size: 19px;
+    line-height: 2;
+   }
+	/*campus*/
+	.hovereffect h3 {
+	font-size: 18px;
+	}
+	.hovereffect a.info {
+	padding: 4px 15px;
+	top: 35%;
+	left: 45%;
+	}
+	.hovereffect h3 {
+	border-left: none;
+	}
+	/*Admissions*/
+	.admissions_inner{
+	margin-left: 0px;
+	width: auto;
+	margin-top: 13%;
+	}
+	.admissions_inner h6{
+	display: none;
+	}
+	.news_events .all {
+	margin-bottom: 30px;
+	}
+	.news_events a.more {
+	font-size: 16px;
+    padding: 6px 12px 6px 12px;
+   }
+   .news_events a.more:hover {
+	font-size: 16px;
+    padding: 6px 12px 6px 12px;
+   }
+   .news_events .readmore {
+   	margin-top: 30px;
+   }
+   .news_events .news_page {
+	border-right: none;
+	}
+	.news_events hr{
+	margin: 10px;
+	}
+	#placement {
+	background-position: left;
+	}
+	.placement_inner {
+	margin-right: 15%;
+    margin-top: 25%;
+    background: rgba(177, 4, 14, 0.58);
+    padding: 15px;
+	}
+	.placement_inner h2 {
+	font-weight: 700;
+    font-size: 30px !important;
+    color: #fff;
+    
+	}
+
+
+
+
+
+	.placement_inner p {
+	color: #f8f8f8;
+   
+    margin-bottom: 0px;
+   
+	}
+	.placement_inner .btn-info {
+	background-color: #f58220 !important;
+    border: 0px solid #f58220 !important;
+   
+    color: #fff !important; 
+    }
+    .placement_inner .btn-info:hover {
+	background-color: #b1040e  !important;
+    border: 0px solid #b1040e  !important;
+    
+    color: #fff !important;
+    }
+   .spotlight .ce-title-line {
+   	width: 16%;
+   }
+   .footer_top {
+   	background: none;
+   }
+   	 
+ }
+ @media  (max-device-width : 420px){
+	.mvvs {
+    background-position: top center;
+    height: auto;
+   	}
+   	.mvvs .mvvs_inner {
+    margin-top:10%;
+	}
+	.mvvs .mvvs_inner{
+	padding: 30px;
+	}
+   	.mvvs .mvvs_inner h3 {
+	font-size: 25px;
+	}
+	.mvvs .mvvs_inner h4 {
+    font-size:18px;
+	}
+	.mvvs .btn-info {
+	padding: 5px 10px 5px 10px;
+    font-size: 15px !important;
+	}
+	.mvvs .btn-info:hover{
+	padding: 5px 10px 5px 10px;
+    font-size: 15px !important;	
+	}
+	.mvvs i {
+	margin-top: 3px;
+	}
+ }
+ @media  only screen and (min-device-width :421px) and (max-device-width : 500px){
+	/*MVVS Murthi*/
+	.mvvs {
+    background-position: top center;
+   	}
+   	.mvvs .mvvs_inner {
+    margin-top: 20%;
+	}
+   	.mvvs .mvvs_inner h3 {
+	font-size: 30px;
+	}
+	.mvvs .mvvs_inner h4 {
+    font-size: 20px;
+	}
+	.mvvs .btn-info {
+	padding: 6px 10px 6px 10px;
+    font-size: 15px !important;
+	}
+	.mvvs .btn-info:hover{
+	padding: 6px 10px 6px 10px;
+    font-size: 15px !important;	
+	}
+	.mvvs i {
+	margin-top: 3px;
+	}
+ }
+ @media only screen and (min-device-width :501px) and (max-device-width : 576px){
+	/*MVVS Murthi*/
+	.mvvs {
+    background-position: top center;
+   	}
+   	.mvvs .mvvs_inner {
+    margin-top: 20%;
+	}
+   	.mvvs .mvvs_inner h3 {
+	font-size: 40px;
+	}
+	.mvvs .mvvs_inner h4 {
+    font-size: 24px;
+	}
+	.mvvs .btn-info {
+	padding: 6px 10px 6px 10px;
+    font-size: 16px !important;
+	}
+	.mvvs .btn-info:hover{
+	padding: 6px 10px 6px 10px;
+    font-size: 16px !important;	
+	}
+	.mvvs i {
+	margin-top: 2px;
+	}
+ }
+	
+	@media  (max-device-width : 768px){
+	
+	.top_header .fa { display:block !important; margin-top: 8px; }
+		
+	}
+	
+@media  (max-device-width : 767px){
+	
+	.pwrdbycts, .copyright{
+		text-align: center;
+	}
+.news_events .more {
+    position: relative;
+    bottom: 0;
+}
+
+.all a {
+    
+    margin-left: 0px;
+}
+.research-columns{
+		column-count: 1;
+	}
+}
+
+@media only screen and (min-device-width :280px) and (max-device-width : 415px){
+	.top_menu .login {
+	margin-right: 0px !important;
+	}
+	.top_menu {
+	padding: 0px;
+	}
+}
+@media only screen and (min-device-width :577px) and (max-device-width : 990px){
+	#placement {
+	background-position: left;
+	}
+	.placement_inner {
+	margin-top: 35% !important;
+	position: relative;
+	background: #f006;
+	padding: 20px;
+	}
+	.slider .item {
+	min-height: auto;
+	background-color: #fff;
+    }
+    .slider .owl-nav .owl-prev i, .slider .owl-nav .owl-next i {
+	height: 40px;
+	width: 40px;
+	text-align: center;
+	font-size: 20px;
+	line-height: 1.9;
+   }
+	.content_section{
+ 	padding: 35px 0px 50px 0px;
+ 	}
+ 	.col-md-4.text-left.category img {
+    width: 45%;
+}
+
+.col-md-4.text-left.category img[alt*="GITAM NAAC A+"] {
+    width: 53%;
+}
+
+.logo img {
+    width: 80%;
+}
+.col-md-4.text-right.naac img {
+
+    width: 45%;
+
+}
+
+
+}
+@media only screen and (min-device-width : 577px) and (max-device-width : 800px){
+	.admissions_inner {
+	margin-left: 0px;
+    width: auto;
+    margin-top: 5%;
+}
+
+}
+@media only screen and (min-device-width : 1200px) and (max-device-width : 1538px){
+	.admissions_inner {
+	margin-left: 0px;
+    width: auto;
+    margin-top: 2%;
+	}
+}
+@media only screen and (min-device-width : 577px) and (max-device-width : 1345px){
+	.mvvs {
+	background-position: top center;
+	}
+	.mvvs .mvvs_inner h3 {
+	color: #fff;
+    font-weight: 800;
+    font-size: 40px;
+	}
+	.mvvs .mvvs_inner h4 {
+	color: #ffc621;
+    font-size: 23px;
+	}
+	.mvvs .btn-info {
+	font-size: 15px !important;
+	}
+	.mvvs .btn-info:hover {
+	font-size: 15px !important;
+	}
+}
+@media only screen and (min-device-width : 577px) and (max-device-width : 991px){
+	.news_events .all {
+	margin-top: 21px;
+    margin-bottom: 25px;
+	}
+	.news_events .news_page {
+	border-right: none;
+	}
+	h1.title_heading{
+	font-size: 28px;
+	}
+}
+@media only screen and (min-device-width : 992px) and (max-device-width :1200px){
+	
+	h1.title_heading{
+	font-size: 32px;
+	}
+}
+@media only screen and (min-device-width : 577px) and (max-device-width : 1250px){
+	.placement_inner {
+	margin-top: 15%;
+    background: rgba(177, 4, 14, 0.58);
+    padding: 15px;
+    right:0;
+	}
+	.placement_inner h2 {
+	font-weight: 700;
+    font-size: 25px !important;
+    color: #fff;
+	}
+	.placement_inner p {
+	color: #f8f8f8;
+   
+    
+	}
+
+
+
+	.placement_inner .btn-info {
+	background-color: #f58220 !important;
+    border: none;
+    font-size: 16px !important;
+    padding: 7px 12px 7px 12px;
+    color: #fff !important;
+	}
+	.placement_inner .btn-info:hover {
+	background-color: #b1040e !important;
+    border: none;
+    font-size: 16px !important;
+    padding: 7px 12px 7px 12px;
+    color: #fff !important;
+	}
+}
+@media (min-device-width : 1534px) and (min-device-width : 1640px){
+	.admissions_inner {
+    margin-left: 0;
+	}
+}
+@media (min-device-width : 1641px){
+	.admissions_inner {
+    margin-left: 2%;
+	}
+}
+@media only screen and (min-device-width : 1010px) and (max-device-width : 1417px){
+ 	.cbp-hrmenu > ul > li > a {
+	font-size: 17px;
+    padding: 1em 1em;
+   }
+}
+@media only screen and (min-device-width : 928px) and (max-device-width : 1009px){
+ 	.cbp-hrmenu > ul > li > a {
+	font-size: 16px;
+    padding: 1em 0.7em;
+   }
+}
+@media only screen and (min-device-width : 928px) and (max-device-width : 1199px){
+ 	.cbp-hrsub .menu_img{
+ 		display: none;
+ 	}
+ }
+@media only screen and (min-device-width : 928px) and (max-device-width : 1199px){
+ 	
+ 	.cbp-hrmenu .cbp-hrsub-inner > div {
+ 		width: 38.333333%;
+   	}
+   	.cbp-hrmenu .cbp-hrsub-inner .col-xl-2 {
+ 		width: 25% !important;
+   	}
+   .cbp-hrsub h4 {
+	font-size: 20px;
+    font-weight: 600;
+	}
+	.cbp-hrmenu .cbp-hrsub-inner > div a {
+	font-size: 15px;
+	}
+}
+@media only screen and (min-device-width : 1200px) and (max-device-width : 1300px){
+ 	
+   .cbp-hrsub h4 {
+	font-size: 18px;
+    font-weight: 600;
+	}
+	.cbp-hrmenu .cbp-hrsub-inner > div a {
+	font-size: 14px;
+	}
+}
+@media only screen and (min-device-width : 1301px) and (max-device-width : 1400px){
+ 	
+   .cbp-hrsub h4 {
+	font-size: 18px;
+    font-weight: 600;
+	}
+	.cbp-hrmenu .cbp-hrsub-inner > div a {
+	font-size: 14px;
+	}
+}
+
+@media only screen and (min-width: 992px) {
+    .m_menu{
+		display: none;
+	}
+}
+@media only screen and (max-width: 991px) {
+	.m_menu .dropdown-toggle::after {
+    display:inline-block;
+}
+.news_events .more {
+    position: relative;
+    bottom: 0;
+}
+.all a { 
+    margin-left: 0px;
+}
+
+
+}
+@media only screen and (min-width: 1418px) and (max-width:1600px) {
+	.cbp-hrmenu > ul > li > a {
+	font-size: 18px;
+  padding: 1em 1.75em;
+    color: #fff !important;
+	}
+}
+
+
+@media only screen and (min-width: 1090px) and (max-width:1300px) {
+	.leadership_about {
+
+    margin-top: 60px;
+
+}
+}
+@media only screen and (min-width: 768px) and (max-width:1091px) {
+	.leadership_about {
+
+    margin-top: 0px;
+
+}
+	.research-columns{
+		column-count: 2;
+	}
+}
+@media only screen and (max-width: 767px) {
+.leadership_about a.more{
+	width: auto;
+}
+.leadership_about {
+
+    margin-top: 20px;
+
+}
+}
+
+
+@media only screen and (max-width: 998px) {
+	.banner {
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 300px;
+    background-attachment: inherit;
+}
+.footer_img{
+	 background-size: cover;
+    background-repeat: no-repeat;
+    height: 300px;
+    background-attachment: inherit;
+}
+}
+@media only screen and (min-width: 401px) and (max-width:575px) {
+.admissions_inner img {
+	width: 45px;
+}
+.admissions_inner h5 {
+	margin-top: -50px;
+    margin-left: 55px;
+   font-size: 16px;
+}
+.admissions_inner h5 span {
+font-size: 18px;
+}
+}
+@media only screen and (min-width: 576px) and (max-width:768px) {
+
+.admissions_inner h5 {
+	margin-top: -57px;
+    margin-left: 65px;
+   font-size: 16px;
+}
+.admissions_inner h5 span {
+font-size: 18px;
+}
+}
+
+@media only screen and (max-width: 576px) {
+	.sbtn1 {
+		width: 48px;
+	padding: 4px 51px 3px 11px;
+    font-size: 15px;
+}
+#course_nav .nav .nav-item.show .nav-link, #course_nav .nav .nav-link.active,  #course_nav .nav .nav-link {
+    
+    padding: 10px;
+    
+    font-size: 17px;
+}
+#course_nav.main_section, .overview.main_section{
+
+    padding: 0px 0px;
+
+}
+.overview {
+
+    margin-top: 0px;
+
+}
+.course_nav i{
+	display: none;
+}
+		.mvvs .mvvs_inner h3 {
+	font-size: 20px;
+}
+.mvvs .mvvs_inner h4 {
+	font-size: 18px;
+}
+.mvvs .mvvs_inner p {
+	display: none;
+}
+.mvvs .mvvs_inner {
+	padding: 10px;
+	float: left;
+	margin-top: 2%;
+}
+.mvvs .btn-info{
+	display: none;
+}
+.mvvs{
+	background-size: cover;
+	background-repeat: no-repeat;
+	height: 200px;
+	background-attachment: inherit;
+}
+	.banner {
+	 height: 250px;
+	}
+.news_events li.left_news {
+	margin-top: 0px;
+ }
+ .news_events h2 {
+	margin-bottom: 17px;
+}
+.news_events .news ul li a {
+ font-size: 17px;
+}
+.news_events .event-wrapper .event-content-holder h3 {
+    font-size: 18px;
+ }
+  .news_events .event-content-holder ul li {
+    font-size: 16px;
+}
+.news_events .all {
+	margin-top: 0px;
+}
+
+.banner h1 {
+	font-size: 22px;
+}
+.norms img {
+width: 35px;
+}
+.norms h3 span {
+left: 60px;
+}
+.contact_page .table thead th {
+
+    font-size: 18px;
+    color: #002147;
+    line-height: 1.5;
+
+}
+.contact_page .table td {
+
+    padding: 0.7em;
+    font-size: 16px;
+
+}
+.footer_img{
+	 background-size: cover;
+    background-repeat: no-repeat;
+    height: 190px;
+    background-attachment: inherit;
+}
+.main_section{
+	padding: 30px 0px;
+}
+.main_section .nav{
+    overflow-x: auto;
+    flex-wrap: nowrap;
+    overflow-y: hidden !important;
+}
+.main_section .nav-tabs a{
+	font-size: 18px;
+}
+.main_section h2{
+	font-size: 27px !important;
+}
+.main_section h3.inner_heading{
+font-size: 22px;
+}
+
+.main_section h3{
+	font-size: 20px !important;
+}
+.media_press h3{
+	font-size:19px;
+}
+.main_section h4{
+	font-size: 19px;
+}
+.main_section h5{
+	font-size: 18px;
+}
+ .h2_header h2{
+
+margin-top: 20px !important;
+font-size: 25px;
+}
+.main_section p{
+font-size: 17px;
+}
+body{
+	font-size: 16px;
+}
+.section-links li a{
+	font-size: 16px;
+	
+}
+.section-links{
+	margin-top: 15px;
+	margin-bottom: 20px;
+}
+.main_section a.more {
+	font-size: 14px;
+	padding: 5px 10px 5px 8px;
+	margin-bottom: 10px;
+	margin-top: 0px;
+}
+.main_section a.more:hover {
+	font-size: 14px;
+	padding: 5px 10px 5px 8px;
+	
+}
+.main_section button.more {
+	font-size: 18px;
+
+padding: 15px 14px 15px 16px;
+	margin-bottom: 10px;
+	margin-top: 0px;
+}
+.main_section button.more:hover {
+	font-size: 18px;
+
+padding: 15px 14px 15px 16px;
+	
+}
+.main_section .card-header > a.collapsed::before{
+	padding: 2px 9px 1px 9px;
+	font-size: 15px;
+}
+.main_section .card-header > a::before { 
+
+    padding: 2px 9px 1px 9px;
+    font-size: 15px;
+
+}
+
+.main_section .card-header {
+
+    padding: 20px;
+}
+.careers  .card-header {
+    padding: 0px 10px;
+}
+.careers .card-header{
+	margin-bottom: 0px !important;
+}
+.academic_page h2{
+	padding-top: 0px;
+}
+.main_section .left_block h6 {
+
+    font-size: 18px;
+}
+.main_section .form_btn .btn-danger{
+	padding: 15px;
+   
+    font-size: 21px;
+}
+.main_section .form_btn .btn-danger:hover{
+	padding: 15px;
+   
+    font-size: 21px;
+}
+.prospectus h5{
+	font-size: 17px;
+}
+.about_page {
+
+    padding: 40px 0px;
+
+}
+.main_section .table .thead-light th {
+	font-size: 15px;
+}
+.main_section .table-bordered td, .main_section .table-bordered th {
+
+  
+    font-size: 12px;
+
+}
+.fee_page table h4 {
+
+font-size: 16px;
+
+}
+.fee_page table h5 {
+
+    font-size: 12px;
+    }
+    .apply-now-page .form-control {
+    font-size: 15px;
+    
+}
+.apply-now-page label {
+
+    font-size: 18px;
+
+}
+.main_section ul li{
+	font-size: 17px;
+}
+.notifications .event-content-holder ul li {
+   font-size: 15px;
+  }
+.notifications .event-wrapper .event-calender-wrapper {
+   padding-right: 0px;
+}
+.notifications .event-wrapper .event-calender-holder h3 {
+font-size: 30px;
+}
+.notifications .event-wrapper .event-calender-holder h5 {
+font-size: 18px;
+}
+.notifications .event-wrapper .event-calender-holder p {
+font-size: 20px;
+}
+.notifications .event-wrapper .event-content-holder h3 {
+
+    font-size: 18px;
+}
+.footer_top h5 {
+
+    font-size: 21px;
+}
+footer .footer_top ul li a {
+ font-size: 17px;
+}
+.footer_top h6 {
+font-size: 17px;
+
+}
+.m-links{
+	display: none;
+}
+.course h2 {
+font-size: 35px;
+margin-top: 8%;
+}
+.course h3 {
+ font-size: 27px;
+ }
+ .course_form {
+
+    margin-top: 5%;
+    margin-bottom: 5%;
+
+}
+.course_form h3{
+	font-size: 22px;
+}
+.careers_border{
+    border-left: 0px solid #ccc;
+}
+}
+@media only screen and (min-width: 577px) and (max-width:768px) {
+	#course_nav .nav .nav-item.show .nav-link, #course_nav .nav .nav-link.active,  #course_nav .nav .nav-link {
+    
+    padding: 10px;
+    
+    font-size: 18px;
+}
+#course_nav.main_section, .overview.main_section{
+
+    padding: 0px 0px;
+
+}
+.overview {
+
+    margin-top: 0px;
+
+}
+p.careers_lastdate{
+    font-size:16px !important;
+    }
+	.sbtn1 {
+		width: 48px;
+	padding: 4px 51px 3px 11px;
+    font-size: 15px;
+}
+	.mvvs .mvvs_inner h3 {
+	font-size: 25px;
+}
+.mvvs .mvvs_inner h4 {
+	font-size: 20px;
+}
+.mvvs .mvvs_inner p {
+	display: block; font-size:13px
+}
+.mvvs .mvvs_inner {
+	padding: 10px;
+	float: left;
+	margin-top: 1%;
+}
+.mvvs .btn-info{
+	display: none;
+}
+.mvvs{
+	background-size: cover;
+	background-repeat: no-repeat;
+	height: 300px;
+	background-attachment: inherit;
+}
+	.banner {
+
+   height: 300px;
+
+}
+.banner h1 {
+	font-size: 24px;
+}
+.news_events li.left_news {
+	margin-top: 0px;
+ }
+ .news_events h2 {
+	margin-bottom: 17px;
+}
+.news_events .news ul li a {
+ font-size: 18px;
+}
+.news_events .event-wrapper .event-content-holder h3 {
+    font-size: 19px;
+ }
+  .news_events .event-content-holder ul li {
+    font-size: 17px;
+}
+.news_events .all {
+	margin-top: 0px;
+}
+
+.m-links{
+	display: none;
+}
+/*.logo img {
+
+    width: 210px !important;
+
+}*/
+.logo {
+
+    padding: 5px;
+    }
+.norms img {
+width: 40px;
+}
+.norms h3 span {
+left: 65px;
+}
+.footer_top {
+   	background: none;
+   }
+.apply-now-page .form-control {
+    font-size: 15px;
+    
+}
+.apply-now-page label {
+
+    font-size: 18px;
+
+}
+.contact_page .table thead th {
+
+    font-size: 18px;
+    color: #002147;
+    line-height: 1.7;
+
+}
+.contact_page .table td {
+
+    padding: 0.7em;
+    font-size: 17px;
+
+}
+.footer_img{
+	 background-size: cover;
+    background-repeat: no-repeat;
+    height: 300px;
+    background-attachment: inherit;
+}
+.main_section{
+	padding:40px 0px;
+}
+.main_section .nav{
+    overflow-x: auto;
+    flex-wrap: nowrap;
+    overflow-y: hidden !important;
+}
+.main_section .nav-tabs a{
+	font-size: 19px;
+}
+.main_section h3.inner_heading{
+font-size: 26px;
+}
+.main_section h2{
+	font-size: 28px;
+}
+.main_section h3{
+	font-size: 21px;
+}
+.media_press h3{
+	font-size:19px;
+}
+.main_section h4{
+	font-size: 19px;
+}
+.main_section h5 {
+
+    font-size: 18px;
+
+}
+.h2_header h2{
+margin-top: 20px !important;
+font-size: 26px;
+}
+.main_section p{
+font-size: 17px;
+}
+.main_section ul li{
+	font-size: 17px;
+}
+.section-links li a{
+	font-size: 17px;
+	
+}
+.section-links{
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+.main_section a.more {
+	font-size: 14px;
+	padding: 8px 8px 8px 10px;
+	margin-bottom: 10px;
+	margin-top: 10px;
+}
+.main_section a.more:hover {
+	font-size: 14px;
+	padding: 8px 8px 8px 10px;
+	margin-bottom: 10px;
+	
+}
+.main_section button.more {
+	font-size: 20px;
+
+padding: 20px 20px 20px 22px;
+	margin-bottom: 10px;
+	margin-top: 0px;
+}
+.main_section button.more:hover {
+	font-size: 20px;
+
+padding: 20px 20px 20px 22px;
+	
+}
+.academic_page h2{
+	padding-top: 0px;
+}
+.main_section .table .thead-light th {
+	font-size: 16px;
+}
+.main_section .table-bordered td, .main_section .table-bordered th {
+
+  
+    font-size: 15px;
+
+}
+.fee_page table h4 {
+
+font-size: 17px;
+
+}
+.fee_page table h5 {
+
+    font-size: 14px;
+    }
+    .footer_top h5 {
+
+    font-size: 21px;
+}
+footer .footer_top ul li a {
+ font-size: 17px;
+}
+.footer_top h6 {
+font-size: 17px;
+
+}
+.admissions_inner h5 {
+	margin-top: -57px;
+    margin-left: 65px;
+   font-size: 17px;
+}
+.admissions_inner h5 span {
+font-size: 19px;
+}
+.course h2 {
+font-size: 40px;
+margin-top: 20%;
+}
+.course h3 {
+ font-size: 32px;
+ }
+ .course_form {
+
+    margin-top: 5%;
+    margin-bottom: 5%;
+
+}
+.course_form h3{
+	font-size: 22px;
+}
+.careers_border{
+    border-left: 0px solid #ccc;
+}
+}
+@media only screen and (min-width: 769px) and (max-width:991px) {
+	#course_nav .nav .nav-item.show .nav-link, #course_nav .nav .nav-link.active,  #course_nav .nav .nav-link {
+    
+    padding: 10px;
+    
+    font-size: 19px;
+}
+#course_nav.main_section, .overview.main_section{
+
+    padding: 0px 0px;
+
+}
+p.careers_lastdate{
+    font-size:17px !important;
+    }
+.overview {
+
+    margin-top: 10px;
+
+}
+
+	.sbtn1 {
+		width: 48px;
+	padding: 4px 51px 3px 11px;
+    font-size: 15px;
+}
+	.mvvs .mvvs_inner h3 {
+	font-size: 30px;
+}
+.mvvs .mvvs_inner h4 {
+	font-size: 20px;
+}
+.mvvs .mvvs_inner p {
+	display: none;
+}
+.mvvs .mvvs_inner {
+	padding: 25px;
+	float: right;
+	margin-top: 15%;
+}
+.mvvs .btn-info{
+	display: none;
+}
+.mvvs{
+	background-size: cover;
+	background-repeat: no-repeat;
+	height: 300px;
+	background-attachment: inherit;
+}
+	.banner {
+
+   height: 330px;
+
+}
+.logo {
+
+    padding: 5px;
+    }
+/*.logo img {
+
+    width: 210px !important;
+
+}*/
+.news_events li.left_news {
+	margin-top: 0px;
+ }
+ .news_events h2 {
+	margin-bottom: 17px;
+}
+.news_events .news ul li a {
+ font-size: 18px;
+}
+.news_events .event-wrapper .event-content-holder h3 {
+    font-size: 19px;
+ }
+  .news_events .event-content-holder ul li {
+    font-size: 17px;
+}
+.news_events .all {
+	margin-top: 0px;
+}
+
+.footer_top {
+   	background: none;
+   }
+.banner h1 {
+	font-size: 29px;
+}
+.norms img {
+width: 40px;
+}
+.norms h3 span {
+left: 65px;
+}
+.apply-now-page label {
+
+    font-size: 19px;
+
+}
+.apply-now-page .form-control {
+    font-size: 15px;
+    
+}
+.contact_page .table thead th {
+
+    font-size: 18px;
+    color: #002147;
+    line-height: 1.7;
+
+}
+.contact_page .table td {
+
+    padding: 0.7em;
+    font-size: 17px;
+
+}
+.footer_img{
+	 background-size: cover;
+    background-repeat: no-repeat;
+    height: 350px;
+    background-attachment: inherit;
+}
+.main_section{
+	padding:45px 0px;
+}
+.main_section{
+	padding: 35px 0px;
+}
+.main_section .nav-tabs a{
+	font-size: 20px;
+}
+.main_section h2{
+	font-size: 29px;
+}
+.academic_page h2{
+	padding-top: 0px;
+}
+.main_section h4{
+	font-size: 19px;
+}
+.main_section h5 {
+
+    font-size: 18px;
+
+}
+.h2_header h2{
+
+font-size: 28px;
+}
+.heading h2{
+	margin-top: 30px;
+}
+.main_section h3{
+	font-size: 21px;
+}
+.media_press h3{
+	font-size:20px;
+}
+.main_section p{
+font-size: 17px;
+}
+.main_section ul li{
+	font-size: 17px;
+}
+.section-links li a{
+	font-size: 17px;
+}
+.section-links{
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+.main_section a.more {
+	font-size: 14px;
+	padding: 8px 8px 8px 10px;
+	margin-bottom: 10px;
+	margin-top: 10px;
+}
+.main_section a.more:hover {
+	font-size: 14px;
+	padding: 8px 8px 8px 10px;
+	margin-bottom: 10px;
+	
+}
+.main_section button.more {
+	font-size: 20px;
+
+padding: 20px 20px 20px 22px;
+	margin-bottom: 10px;
+	margin-top: 0px;
+}
+.main_section button.more:hover {
+	font-size: 20px;
+
+padding: 20px 20px 20px 22px;
+	
+}
+.incampus_campus .mosaic .img-caption h5 {
+
+    padding: 4px 6px;
+    font-size: 14px;
+
+}
+.main_section .table .thead-light th {
+	font-size: 17px;
+}
+.main_section .table-bordered td, .main_section .table-bordered th {
+
+  
+    font-size: 16px;
+
+}
+.fee_page table h4 {
+
+font-size: 18px;
+
+}
+.fee_page table h5 {
+
+    font-size: 14px;
+    }
+    .admissions_inner h5 {
+	margin-top: -57px;
+    margin-left: 65px;
+   font-size: 17px;
+}
+.admissions_inner h5 span {
+font-size: 19px;
+}
+.course h2 {
+font-size: 40px;
+margin-top: 20%;
+}
+.course h3 {
+ font-size: 32px;
+ }
+ .course_form {
+
+    margin-top: 10%;
+    margin-bottom: 5%;
+
+}
+.course_form h3{
+	font-size: 22px;
+}
+.careers_border{
+    border-left: 0px solid #ccc;
+}
+}
+
+@media only screen and (min-width: 1200px) and (max-width:1320px) { .ac-clm-4 {
+    margin-right: -100px;
+}
+
+.ac-clm-3 {
+    margin-right: 70px;
+}  }
+
+@media only screen and (min-width: 1401px) and (max-width:1600px) { .ac-clm-4 {
+    margin-right: -100px;
+}
+
+.ac-clm-3 {
+    margin-right: 70px;
+}  }
+
+@media only screen and (min-width: 992px) and (max-width:1200px) {
+		#course_nav .nav .nav-item.show .nav-link, #course_nav .nav .nav-link.active,  #course_nav .nav .nav-link {
+    
+    padding: 10px;
+    
+    font-size: 19px;
+}
+#course_nav.main_section, .overview.main_section{
+
+    padding: 10px 0px;
+
+}
+.overview {
+
+    margin-top: 10px;
+
+}
+	.sbtn1 {
+		width: 48px;
+	padding: 4px 51px 3px 11px;
+    font-size: 15px;
+}
+.cbp-hrmenu .cbp-hrsub-inner > div p {
+font-size: 15px;
+}
+.cbp-hrsub h4 a {
+font-size: 19px !important;
+}
+.cbp-hrmenu .cbp-hrsub-inner > div a {
+
+    font-size: 14px;
+
+}
+.cbp-hrmenu .cbp-hrsub-inner > div {
+padding: 10px 15px 10px 15px;
+}
+	.mvvs .mvvs_inner h3 {
+	font-size: 35px;
+}
+.mvvs .mvvs_inner h4 {
+	font-size: 25px;
+}
+.mvvs .mvvs_inner p {
+	font-size: 17px;
+}
+.mvvs .mvvs_inner {
+	padding: 30px;
+}
+	.banner {
+
+   height: 360px;
+
+}
+/*.logo img {
+
+    width: 220px !important;
+
+}*/
+.logo {
+
+    padding: 5px;
+    }
+.banner h1 {
+	font-size: 32px;
+}
+.news_events li.left_news {
+	margin-top: 0px;
+ }
+ .news_events h2 {
+	margin-bottom: 17px;
+}
+.news_events .news ul li a {
+ font-size: 17px;
+}
+.news_events .event-wrapper .event-content-holder h3 {
+    font-size: 18px;
+ }
+  .news_events .event-content-holder ul li {
+    font-size: 16px;
+}
+
+
+.norms img {
+width: 45px;
+}
+.norms h3 span {
+left: 70px;
+}
+.apply-now-page .form-control {
+    font-size: 15px;
+    
+}
+.apply-now-page label {
+
+    font-size: 19px;
+
+}
+.contact_page .table thead th {
+
+    font-size: 19px;
+    color: #002147;
+    line-height: 1.7;
+
+}
+.contact_page .table td {
+
+    padding: 0.7em;
+    font-size: 17px;
+
+}
+.footer_img{
+	 background-size: cover;
+    background-repeat: no-repeat;
+    height: 400px;
+    background-attachment: inherit;
+}
+.main_section .nav-tabs a{
+	font-size: 20px;
+}
+.main_section h2{
+	font-size: 32px;
+}
+.main_section h3{
+	font-size: 23px;
+}
+.media_press h3{
+	font-size:20px;
+}
+.main_section h4{
+	font-size: 19px;
+}
+.main_section h5 {
+
+    font-size: 18px;
+
+}
+.h2_header h2{
+
+font-size: 30px;
+}
+.section-links li a{
+	font-size: 18px;
+}
+.section-links{
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+.main_section a.more {
+	font-size: 14px;
+	padding: 10px 10px 10px 12px;
+	margin-bottom: 10px;
+	margin-top: 10px;
+}
+.main_section a.more:hover {
+	font-size: 14px;
+	padding: 10px 10px 10px 12px;
+	margin-bottom: 10px;
+	
+}
+.main_section button.more {
+	font-size: 22px;
+
+padding: 22px 22px 22px 25px;
+	margin-bottom: 10px;
+	margin-top: 0px;
+}
+.main_section button.more:hover {
+	font-size: 22px;
+
+padding: 22px 22px 22px 25px;
+	
+}
+.main_section .form_btn .btn-danger{
+	padding: 15px;
+   
+    font-size: 23px;
+}
+.main_section .form_btn .btn-danger:hover{
+		padding: 15px;
+   
+    font-size: 23px;
+	}
+.main_section .table .thead-light th {
+	font-size: 17px;
+}
+.main_section .table-bordered td, .main_section .table-bordered th {
+
+  
+    font-size: 16px;
+
+}
+.fee_page table h4 {
+
+font-size: 18px;
+
+}
+.main_section p{
+	font-size: 17px;
+}
+.main_section ul li{
+	font-size: 17px;
+}
+.fee_page table h5 {
+
+    font-size: 15px;
+    }
+    .admissions_inner h5 {
+	margin-top: -57px;
+    margin-left: 65px;
+   font-size: 17px;
+}
+.admissions_inner h5 span {
+font-size: 19px;
+}
+#placement {
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+    
+}
+.spotlight {
+
+    padding: 40px 0px;
+    }
+    .course h2 {
+font-size: 60px;
+
+}
+.course h3 {
+ font-size: 40px;
+ }
+ .course_form {
+
+    margin-top: 20%;
+    margin-bottom: 20%;
+
+}
+.course_form h3{
+	font-size: 22px;
+}
+}
+@media only screen and (min-width: 1201px) and (max-width:1400px){
+		#course_nav .nav .nav-item.show .nav-link, #course_nav .nav .nav-link.active,  #course_nav .nav .nav-link {
+    
+    padding: 10px;
+    
+    font-size: 19px;
+}
+#course_nav.main_section, .overview.main_section{
+
+    padding: 0px 0px;
+
+}
+.overview {
+
+    margin-top: 30px;
+
+}
+	.sbtn1 {
+		width: 48px;
+	padding: 4px 51px 3px 11px;
+    font-size: 15px;
+}
+	.cbp-hrmenu .cbp-hrsub-inner > div p {
+font-size: 15px;
+}
+.cbp-hrsub h4 a {
+font-size: 19px !important;
+}
+.cbp-hrmenu .cbp-hrsub-inner > div a {
+
+    font-size: 14px;
+
+}
+.cbp-hrmenu .cbp-hrsub-inner > div {
+padding: 10px 15px 10px 15px;
+}
+.mvvs .mvvs_inner h3 {
+	font-size: 35px;
+}
+.mvvs .mvvs_inner h4 {
+	font-size: 25px;
+}
+.mvvs .mvvs_inner p {
+	font-size: 17px;
+}
+.mvvs .mvvs_inner {
+	padding: 30px;
+}
+	.main_section .form_btn .btn-danger{
+		font-size: 21px;
+	}
+	.main_section .form_btn .btn-danger:hover{
+		font-size: 21px;
+	}
+	.banner {
+	 height: 400px;
+}
+.news_events li.left_news {
+	margin-top: 0px;
+ }
+ .news_events h2 {
+	margin-bottom: 17px;
+}
+.news_events .news ul li a {
+ font-size: 18px;
+}
+.news_events .event-wrapper .event-content-holder h3 {
+    font-size: 19px;
+ }
+  .news_events .event-content-holder ul li {
+    font-size: 17px;
+}
+
+
+/*.logo img {
+
+    width: 220px !important;
+
+}*/
+.norms img {
+width: 50px;
+}
+.norms h3 span {
+left: 75px;
+margin-top: 10px;
+}
+.footer_top h5 {
+
+    font-size: 20px;
+}
+footer .footer_top ul li a {
+ font-size: 16px;
+}
+.footer_top h6 {
+font-size: 16px;
+
+}
+.contact_page .table thead th {
+
+    font-size: 20px;
+    color: #002147;
+    line-height: 1.7;
+
+}
+.contact_page .table td {
+
+    padding: 0.7em;
+    font-size: 18px;
+
+}
+.evaluation .related_links h6 {
+font-size: 16px;
+ }
+ .evaluation .evaluation_rightblock h6{
+ 	font-size: 17px;
+ }
+.apply-now-page label {
+
+    font-size: 20px;
+
+}
+
+.apply-now-page .form-control {
+    font-size: 16px;
+    
+}
+.main_section p{
+	font-size: 18px;
+}
+.main_section ul li{
+	font-size: 18px;
+}
+.prospectus h5 {
+
+    font-size: 18px;
+    }
+.banner h1 {
+	font-size: 33px;
+}
+	.h2_header h2{
+
+font-size: 30px;
+}
+.main_section h2{
+	font-size: 33px;
+}
+.main_section h3{
+	font-size: 22px;
+}
+.media_press h3{
+	font-size:21px;
+}
+.main_section h4{
+	font-size: 20px !important;
+	
+}
+.main_section h5 {
+
+    font-size: 18px;
+
+}
+.main_section .nav-tabs a{
+	font-size: 20px;
+}
+.main_section a.more {
+	font-size: 15px;
+	padding: 12px 12px 12px 15px;
+	margin-bottom: 10px;
+	margin-top: 10px;
+}
+.main_section a.more:hover {
+	font-size: 15px;
+	padding: 12px 12px 12px 15px;
+	margin-bottom: 10px;
+	
+}
+.main_section button.more {
+	font-size: 22px;
+
+padding: 22px 22px 22px 25px;
+	margin-bottom: 10px;
+	margin-top: 0px;
+}
+.main_section button.more:hover {
+	font-size: 22px;
+
+padding: 22px 22px 22px 25px;
+	
+}
+.main_section .table-bordered td {
+
+  
+    font-size: 14px;
+
+}
+.admissions_inner h5 {
+	margin-top: -52px;
+    margin-left: 65px;
+   font-size: 16px;
+}
+.admissions_inner h5 span {
+font-size: 18px;
+}.admissions{
+	background-position: left top;
+}
+#placement {
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 450px;
+    
+}
+.spotlight {
+
+    padding: 40px 0px;
+    }
+      .course h2 {
+font-size: 60px;
+
+}
+.course h3 {
+ font-size: 40px;
+ }
+ .course_form {
+
+    margin-top: 20%;
+    margin-bottom: 20%;
+
+}
+.course_form h3{
+	font-size: 22px;
+}
+}
+@media only screen and (min-width: 768px) 
+{
+	.main_section .inner_heading{
+		display: none;
+	}
+	
+}
+@media only screen and  (max-device-width : 991px) { 
+	.top_header_section .container-section {
+	padding-right: 2px;
+    padding-left: 2px;
+}
+}
+@media only screen and  (max-width : 320px) { 
+.top_header li {
+	font-size: 13px;
+}
+
+.top_header .fa-facebook, .top_header .fa-search, .top_header .fa-youtube, .top_header .fa-instagram, .top_header .fa-linkedin {
+
+    padding-top: 3px;
+    
+    }
+    .top_header .fa{
+    	padding-right: 0px;
+    	font-size: 13px;
+    	
+
+    }
+    .top_header li {
+   
+    margin-right: 3px;
+	padding-left:3px;
+}
+.top_header .dropdown-item {
+
+    font-size: 13px;
+
+}
+#course_nav .nav .nav-item.show .nav-link, #course_nav .nav .nav-link.active,  #course_nav .nav .nav-link {
+    
+    padding: 10px;
+    
+    font-size: 15px;
+}
+.overview {
+
+    margin-top: 0px;
+
+}
+}
+@media only screen and (min-width: 769px) and (max-width:992px) {
+	.top_header li {
+
+    font-size: 13px;
+}
+.top_header .fa-facebook, .top_header .fa-search, .top_header .fa-youtube, .top_header .fa-instagram, .top_header .fa-linkedin {
+
+    padding-top: 3px;
+    font-size: 13px;
+    }
+    .top_header li {
+
+    margin-right: 3px;
+
+}
+.hovereffect h3 {
+
+    font-size: 18px;
+    padding: 5px;
+    }
+
+.top_header .dropdown-item {
+
+    font-size: 13px;
+
+}
+.top_header .fa{
+   padding-right: 5px;
+ }
+
+}
+@media only screen and (min-width: 993px) and (max-width:1200px) {
+	.top_header li {
+
+    font-size: 13px;
+}
+.top_header .fa-facebook, .top_header .fa-search, .top_header .fa-youtube, .top_header .fa-instagram, .top_header .fa-linkedin {
+
+    padding-top: 3px;
+    font-size: 14px;
+    }
+    .top_header li {
+
+    margin-right: 2px;
+
+}
+.top_header .dropdown-item {
+
+    font-size: 13px;
+}
+.top_header .fa{
+    	padding-right: 8px;
+   }
+   .hovereffect h3 {
+
+    font-size: 20px;
+    padding: 10px;
+    }
+}
+@media only screen and (min-width: 1201px) and (max-width:1400px) {
+	.top_header li {
+
+    font-size: 13px;
+}
+.top_header .fa-facebook, .top_header .fa-search, .top_header .fa-youtube, .top_header .fa-instagram, .top_header .fa-linkedin {
+
+    padding-top: 3px;
+    font-size: 13px;
+    }
+    .top_header li {
+
+    margin-right: 6px;
+
+}
+.top_header .fa{
+	padding-right: 8px;
+}
+.top_header .dropdown-item {
+
+    font-size: 13px;
+
+}
+.hovereffect h3 {
+
+    font-size: 22px;
+    padding: 10px;
+    }
+    h2.title_heading{
+	font-size: 35px;
+	}
+}
+
+@media only screen and (min-width: 321px) and (max-width:356px) {
+.top_header li {
+
+   padding-left:3px;
+    margin-right: 0px;
+
+}
+}
+

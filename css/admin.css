@@ -1,0 +1,21 @@
+.dashicons-before img {
+    width: 20px;
+    padding: 7px !important;
+}
+
+.menu-icon-post .wp-menu-image:before {
+    content: "\f157";
+}
+
+.welcome-panel-close {
+    display: none;
+}
+
+.welcome-panel-content img {
+    width: 140px;
+}
+
+#pods-form-ui-pods-meta-sidebar-menu-names {
+    /* height: 80px;
+    min-height: auto; */
+}
