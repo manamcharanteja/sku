@@ -29,7 +29,7 @@
             <div class="col-lg-9 col-md-8 ">
                 
                     <div class="section7-title">
-                        <h2><b>College of ARTS </b></h2>
+                        <h2><a href="http://skuniversity.ac.in/skucoa/index.html" target="_blank"><b>College of ARTS </b></a></h2>
                     </div>
                     <hr>
                     <div>
@@ -67,7 +67,7 @@
             <div class="col-lg-9 col-md-8 ">
                 
                     <div class="section7-title">
-                        <h2><b>College of Sciences </b></h2>
+                        <h2><a href="http://skuniversity.ac.in/skucos/index.html" target="_blank"><b>College of Sciences </b></a></h2>
                     </div>
                     <hr>
                     <div>
@@ -93,7 +93,7 @@
             <div class="col-lg-9 col-md-8 ">
                 
                     <div class="section7-title">
-                        <h2><b>College of Engineering and Technology </b></h2>
+                        <h2><a href="http://skucet.ac.in/" target="_blank"><b>College of Engineering and Technology </b></a></h2>
                     </div>
                     <hr>
                     <div>
@@ -133,8 +133,8 @@
             <div class="col-lg-9 col-md-8 ">
                 
                     <div class="section7-title">
-                        <h2><b>
-                            College of Pharmaceutical Science </b></h2>
+                        <h2><a href="" target=""><b>
+                            College of Pharmaceutical Science </b></a></h2>
                     </div>
                     <hr>
                     <div>
@@ -158,7 +158,7 @@
             <div class="col-lg-9 col-md-8 ">
                 
                     <div class="section7-title">
-                        <h2><b>College of Education </b></h2>
+                        <h2><a href="http://skuniversity.ac.in/skucoe/skucoe.html" target="_blank"><b>College of Education </b></a></h2>
                     </div>
                     <hr>
                     <div>
